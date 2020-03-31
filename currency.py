@@ -17,7 +17,7 @@ end_date = date(2020, 1, 10)
 s_link='http://data.fixer.io/api/' #https://fixer.io/quickstart
 s_dateKey='date='
 s_date=''
-s_access_key='?access_key=01bb2ac5412835d13b929aea8818591b'
+s_access_key='?access_key=01bb2ac5412835d13b929aea8818591b' #you might need to update API key on this line
 s_currencies_key='&symbols='
 s_currencies=','.join(currencies_list)
 n_currencies=len(currencies_list)
