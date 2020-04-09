@@ -12,12 +12,13 @@ from itertools import cycle
 import pandas as pd
 
 #changables>>
-currencies_list=["USD","GEL","TRY","RUB","AZN","AMD"] #just select any from EurGetRates.py
-start_date =     datetime.strptime("2020-01-10","%Y-%m-%d").date()
+currencies_list=["GEL"] #just select any from EurGetRates.py
+start_date =     datetime.strptime("2018-01-02","%Y-%m-%d").date()
 end_date =       datetime.strptime("2020-04-09","%Y-%m-%d").date()
 reference_date = datetime.strptime("2020-01-11","%Y-%m-%d").date()
 dirName = 'dataEur' #where previously parsed data json is stored
 fileName = '/data_raw.json' #where previously parsed data json is stored
+drawPercentages = False
 #<<changables
 
 
@@ -48,14 +49,17 @@ for j in range (allData['dataset'].count()):
         dateArray.append(currDate)        
         #make array by currencies
         for i in range(rates['values'].count()):
-            valuesArray[i].append(rates['values'][i])
-            if (currDateFormatted == reference_date):
+            if (rates['currName'][i]=='GEL' and rates['values'][i]>300):
+                valuesArray[i].append(3.03150027) #on date: 2018.12.18, GEL value has a typo, it's 303.150027 instead of 3.03150027
+            else :
+                valuesArray[i].append(rates['values'][i])
+            if (drawPercentages and currDateFormatted == reference_date):
                 reference_values.append(rates['values'][i])
 
-
-#divide all by reference currencies
-for i in range(len(currencies_list)):
-    valuesArray[i][:] = [j / reference_values[i] for j in valuesArray[i]] #current/day_before_first_corona_case
+if (drawPercentages):
+    #divide all by reference currencies
+    for i in range(len(currencies_list)):
+        valuesArray[i][:] = [j / reference_values[i] for j in valuesArray[i]] #current/day_before_first_corona_case
 
 #add to plot
 for j in range(rates['currName'].count()):
@@ -66,11 +70,11 @@ for j in range(rates['currName'].count()):
         if (j%6==4): ax.plot(dateArray, valuesArray[j], marker='x', markersize=3, markevery=13, markeredgecolor='red', linewidth=1, label=rates['currName'][j])
         if (j%6==5): ax.plot(dateArray, valuesArray[j], marker='|', markersize=3, markevery=17, markeredgecolor='red', linewidth=1, label=rates['currName'][j])
 
-plt.axvline(reference_date.strftime("%Y-%m-%d"), 0, 1.5, label='reference',color='red')
+if (drawPercentages): plt.axvline(reference_date.strftime("%Y-%m-%d"), 0, 1.5, label='reference',color='red')
 plt.xticks(rotation=45, fontsize=6)
 ax.xaxis.set_major_locator(plt.MaxNLocator(20))
-ax.set(xlabel='', ylabel='ratio: currency_day[i]/currency_8.1.2020', title=
-'EUR price of DAILY_CURRENCY divided by BEFORE_CORONA_CURRENCY \n from '+start_date.strftime("%Y-%m-%d") + ' to '+end_date.strftime("%Y-%m-%d"))
+ylabeltext='ratio: currency_day[i]/currency_8.1.2020' if (drawPercentages) else 'price for 1 euro'
+ax.set(xlabel='', ylabel=ylabeltext, title='EUR price of DAILY_CURRENCY divided by BEFORE_CORONA_CURRENCY \n from '+start_date.strftime("%Y-%m-%d") + ' to '+end_date.strftime("%Y-%m-%d"))
 ax.grid()
 box = ax.get_position()
 ax.set_position([box.x0, box.y0 + box.height * 0.1, box.width, box.height * 0.9])

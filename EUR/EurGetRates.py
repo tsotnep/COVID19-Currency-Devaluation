@@ -12,7 +12,7 @@ from itertools import cycle
 
 #changables>>
 currencies_list=["USD","GEL","RUB","PLN","RON","UAH","TRY","GBP","RON","CAD","AED","AMD","AZN","IRR","MXN","YER","XAU","XAG","VND","SEK","SAR","QAR","NOK","MDL","KZT","LKR","KWD","KRW","JPY","INR","HUF","ILS","HUF","HRK","HKD","GBP","EGP","CZK","CNY","CHF","BYR","BTC","BGN","ARS"] #just add any if available : https://fixer.io/symbols
-start_date = date(2020, 4, 7)
+start_date = date(2018, 1, 2)
 end_date = date(2020, 4, 8) #should not be more than 1000 days difference (api limits)
 api_key = '39aa3e24eaf900af8a4f6f3ca07ae530' #don't be irresponsible lazy ass and get/use your API key here: https://fixer.io/quickstart
 dirName = 'dataEur' #where generated data will be stored
