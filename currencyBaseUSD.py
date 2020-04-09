@@ -10,20 +10,19 @@ import csv
 from itertools import cycle
 
 #changables>>
-currencies_list=["USD","GEL","RUB","PLN","RON","UAH","TRY","GBP","RON","CAD","AED","AMD","AZN","IRR","MXN"] #just add any if available : https://fixer.io/symbols
+currencies_list=["GEL"] #just add any if available : https://currencylayer.com/currencies
 start_date = date(2020, 1, 8)
-end_date = date(2020, 3, 30)
+end_date = date(2020, 4, 6)
 reference_date = date(2020, 1, 8) #all list of currencies will be divided by that day's currency
-api_key = '01bb2ac5412835d13b929aea8818591b' #don't be irresponsible lazy ass and get/use your API key here: https://fixer.io/quickstart
+api_key = '99a188e62fac7513c701de364f751305' #don't be irresponsible lazy ass and get/use your API key here: https://fixer.io/quickstart
 #<<changables
 
 
 #assemble request link
-s_link='http://data.fixer.io/api/' 
-s_dateKey='date='
-s_date=''
+s_link='http://api.currencylayer.com/historical' 
 s_access_key='?access_key='+api_key
-s_currencies_key='&symbols='
+s_dateKey='&date='
+s_currencies_key='&currencies='
 s_currencies=','.join(currencies_list)
 
 
@@ -38,12 +37,12 @@ delta = timedelta(days=1)
 while check_date <= end_date:
     check_date += delta
     s_date = check_date.strftime("%Y-%m-%d")
-    apilink=s_link+s_date+s_access_key+s_currencies_key+s_currencies
+    apilink=s_link+s_access_key+s_dateKey+s_date+s_currencies_key+s_currencies+'&format=1'
     req = requests.get(apilink) 
     reqjson = json.loads(req.text, object_hook=lambda d: namedtuple('X', d.keys())(*d.values()))
     ind=0
     for curr in currencies_list:
-        d[ind].append(getattr(reqjson.rates, curr))
+        d[ind].append(getattr(reqjson.quotes, 'USD'+curr))
         ind+=1
 
 #savve raw data
@@ -53,8 +52,8 @@ with open(csvRawFileName, "w", newline="") as f:
     writer.writerows(d)
 
 #normalize - divide all currencies by the reference currency
-for i in range(len(currencies_list)):
-    d[i][:] = [j / d[i][(reference_date-start_date).days] for j in d[i]] #current/day_before_first_corona_case
+#for i in range(len(currencies_list)):
+#    d[i][:] = [j / d[i][(reference_date-start_date).days] for j in d[i]] #current/day_before_first_corona_case
     #d[i][:] = [j / min(d[i]) for j in d[i]] #current/minimum
 
 #savve normalized data
@@ -81,8 +80,8 @@ for i in range(len(currencies_list)):
     plt.xticks(rotation=20, fontsize=5)
 
 #set title
-chartTitle='EUR price of DAILY_CURRENCY divided by BEFORE_CORONA_CURRENCY \n from '+start_date.strftime("%Y-%m-%d") + ' to '+end_date.strftime("%Y-%m-%d")
-ax.set(xlabel='', ylabel='ratio: currency_day[i]/currency_8.1.2020', title=chartTitle)
+chartTitle='USD price \n from '+start_date.strftime("%Y-%m-%d") + ' to '+end_date.strftime("%Y-%m-%d")
+ax.set(xlabel='', ylabel='price', title=chartTitle)
 
 ax.grid()
 box = ax.get_position()
