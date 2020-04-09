@@ -12,7 +12,7 @@ from itertools import cycle
 import pandas as pd
 
 #changables>>
-currencies_list=["USD","GEL","PLN","RUB","MXN","XAU","UAH","TRY","AMD","AZN","IRR"] #just select any from EurGetRates.py
+currencies_list=["USD","GEL","TRY","RUB","AZN","AMD"] #just select any from EurGetRates.py
 start_date =     datetime.strptime("2020-01-10","%Y-%m-%d").date()
 end_date =       datetime.strptime("2020-04-09","%Y-%m-%d").date()
 reference_date = datetime.strptime("2020-01-11","%Y-%m-%d").date()
