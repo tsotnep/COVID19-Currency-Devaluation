@@ -1,4 +1,4 @@
-{
+{"dataset":[{
     "success": true,
     "timestamp": 1514937599,
     "historical": true,
@@ -47,7 +47,7 @@
         "BGN": 1.956206,
         "ARS": 22.174556
     }
-}{
+},{
     "success": true,
     "timestamp": 1515023999,
     "historical": true,
@@ -96,7 +96,7 @@
         "BGN": 1.954469,
         "ARS": 22.161538
     }
-}{
+},{
     "success": true,
     "timestamp": 1515110399,
     "historical": true,
@@ -145,7 +145,7 @@
         "BGN": 1.957156,
         "ARS": 22.466647
     }
-}{
+},{
     "success": true,
     "timestamp": 1515196799,
     "historical": true,
@@ -194,7 +194,7 @@
         "BGN": 1.953792,
         "ARS": 22.692706
     }
-}{
+},{
     "success": true,
     "timestamp": 1515283199,
     "historical": true,
@@ -243,7 +243,7 @@
         "BGN": 1.953792,
         "ARS": 22.6915
     }
-}{
+},{
     "success": true,
     "timestamp": 1515369599,
     "historical": true,
@@ -292,7 +292,7 @@
         "BGN": 1.955204,
         "ARS": 22.707945
     }
-}{
+},{
     "success": true,
     "timestamp": 1515455999,
     "historical": true,
@@ -341,7 +341,7 @@
         "BGN": 1.955829,
         "ARS": 22.772466
     }
-}{
+},{
     "success": true,
     "timestamp": 1515542399,
     "historical": true,
@@ -390,7 +390,7 @@
         "BGN": 1.956057,
         "ARS": 22.589501
     }
-}{
+},{
     "success": true,
     "timestamp": 1515628799,
     "historical": true,
@@ -439,7 +439,7 @@
         "BGN": 1.950376,
         "ARS": 22.257901
     }
-}{
+},{
     "success": true,
     "timestamp": 1515715199,
     "historical": true,
@@ -488,7 +488,7 @@
         "BGN": 1.960491,
         "ARS": 22.501778
     }
-}{
+},{
     "success": true,
     "timestamp": 1515801599,
     "historical": true,
@@ -537,7 +537,7 @@
         "BGN": 1.966918,
         "ARS": 22.775917
     }
-}{
+},{
     "success": true,
     "timestamp": 1515887999,
     "historical": true,
@@ -586,7 +586,7 @@
         "BGN": 1.966918,
         "ARS": 22.775917
     }
-}{
+},{
     "success": true,
     "timestamp": 1515974399,
     "historical": true,
@@ -635,7 +635,7 @@
         "BGN": 1.965487,
         "ARS": 22.758969
     }
-}{
+},{
     "success": true,
     "timestamp": 1516060799,
     "historical": true,
@@ -684,7 +684,7 @@
         "BGN": 1.954959,
         "ARS": 22.983165
     }
-}{
+},{
     "success": true,
     "timestamp": 1516147199,
     "historical": true,
@@ -733,7 +733,7 @@
         "BGN": 1.962932,
         "ARS": 23.159477
     }
-}{
+},{
     "success": true,
     "timestamp": 1516233599,
     "historical": true,
@@ -782,7 +782,7 @@
         "BGN": 1.953329,
         "ARS": 22.951904
     }
-}{
+},{
     "success": true,
     "timestamp": 1516319999,
     "historical": true,
@@ -831,7 +831,7 @@
         "BGN": 1.956603,
         "ARS": 23.097374
     }
-}{
+},{
     "success": true,
     "timestamp": 1516406399,
     "historical": true,
@@ -880,7 +880,7 @@
         "BGN": 1.951212,
         "ARS": 23.189759
     }
-}{
+},{
     "success": true,
     "timestamp": 1516492799,
     "historical": true,
@@ -929,7 +929,7 @@
         "BGN": 1.951212,
         "ARS": 23.189759
     }
-}{
+},{
     "success": true,
     "timestamp": 1516579199,
     "historical": true,
@@ -978,7 +978,7 @@
         "BGN": 1.956485,
         "ARS": 23.252467
     }
-}{
+},{
     "success": true,
     "timestamp": 1516665599,
     "historical": true,
@@ -1027,7 +1027,7 @@
         "BGN": 1.959066,
         "ARS": 23.442476
     }
-}{
+},{
     "success": true,
     "timestamp": 1516751999,
     "historical": true,
@@ -1076,7 +1076,7 @@
         "BGN": 1.966858,
         "ARS": 23.793975
     }
-}{
+},{
     "success": true,
     "timestamp": 1516838399,
     "historical": true,
@@ -1125,7 +1125,7 @@
         "BGN": 1.962572,
         "ARS": 24.343112
     }
-}{
+},{
     "success": true,
     "timestamp": 1516924799,
     "historical": true,
@@ -1174,7 +1174,7 @@
         "BGN": 1.954385,
         "ARS": 24.241409
     }
-}{
+},{
     "success": true,
     "timestamp": 1517011199,
     "historical": true,
@@ -1223,7 +1223,7 @@
         "BGN": 1.954874,
         "ARS": 24.299492
     }
-}{
+},{
     "success": true,
     "timestamp": 1517097599,
     "historical": true,
@@ -1272,7 +1272,7 @@
         "BGN": 1.954874,
         "ARS": 24.300683
     }
-}{
+},{
     "success": true,
     "timestamp": 1517183999,
     "historical": true,
@@ -1321,7 +1321,7 @@
         "BGN": 1.955115,
         "ARS": 24.303749
     }
-}{
+},{
     "success": true,
     "timestamp": 1517270399,
     "historical": true,
@@ -1370,7 +1370,7 @@
         "BGN": 1.956412,
         "ARS": 24.223023
     }
-}{
+},{
     "success": true,
     "timestamp": 1517356799,
     "historical": true,
@@ -1419,7 +1419,7 @@
         "BGN": 1.954565,
         "ARS": 24.337144
     }
-}{
+},{
     "success": true,
     "timestamp": 1517443199,
     "historical": true,
@@ -1468,7 +1468,7 @@
         "BGN": 1.950201,
         "ARS": 24.382147
     }
-}{
+},{
     "success": true,
     "timestamp": 1517529599,
     "historical": true,
@@ -1517,7 +1517,7 @@
         "BGN": 1.964458,
         "ARS": 24.205942
     }
-}{
+},{
     "success": true,
     "timestamp": 1517615999,
     "historical": true,
@@ -1566,7 +1566,7 @@
         "BGN": 1.95151,
         "ARS": 24.24143
     }
-}{
+},{
     "success": true,
     "timestamp": 1517702399,
     "historical": true,
@@ -1615,7 +1615,7 @@
         "BGN": 1.95151,
         "ARS": 24.242679
     }
-}{
+},{
     "success": true,
     "timestamp": 1517788799,
     "historical": true,
@@ -1664,7 +1664,7 @@
         "BGN": 1.949313,
         "ARS": 24.215541
     }
-}{
+},{
     "success": true,
     "timestamp": 1517875199,
     "historical": true,
@@ -1713,7 +1713,7 @@
         "BGN": 1.944825,
         "ARS": 24.048619
     }
-}{
+},{
     "success": true,
     "timestamp": 1517961599,
     "historical": true,
@@ -1762,7 +1762,7 @@
         "BGN": 1.96458,
         "ARS": 24.210537
     }
-}{
+},{
     "success": true,
     "timestamp": 1518047999,
     "historical": true,
@@ -1811,7 +1811,7 @@
         "BGN": 1.945499,
         "ARS": 24.128861
     }
-}{
+},{
     "success": true,
     "timestamp": 1518134399,
     "historical": true,
@@ -1860,7 +1860,7 @@
         "BGN": 1.957682,
         "ARS": 24.466448
     }
-}{
+},{
     "success": true,
     "timestamp": 1518220799,
     "historical": true,
@@ -1909,7 +1909,7 @@
         "BGN": 1.953415,
         "ARS": 24.485095
     }
-}{
+},{
     "success": true,
     "timestamp": 1518307199,
     "historical": true,
@@ -1958,7 +1958,7 @@
         "BGN": 1.953415,
         "ARS": 24.485095
     }
-}{
+},{
     "success": true,
     "timestamp": 1518393599,
     "historical": true,
@@ -2007,7 +2007,7 @@
         "BGN": 1.953423,
         "ARS": 24.485286
     }
-}{
+},{
     "success": true,
     "timestamp": 1518479999,
     "historical": true,
@@ -2056,7 +2056,7 @@
         "BGN": 1.962713,
         "ARS": 24.575415
     }
-}{
+},{
     "success": true,
     "timestamp": 1518566399,
     "historical": true,
@@ -2105,7 +2105,7 @@
         "BGN": 1.959703,
         "ARS": 24.684789
     }
-}{
+},{
     "success": true,
     "timestamp": 1518652799,
     "historical": true,
@@ -2154,7 +2154,7 @@
         "BGN": 1.975421,
         "ARS": 24.800349
     }
-}{
+},{
     "success": true,
     "timestamp": 1518739199,
     "historical": true,
@@ -2203,7 +2203,7 @@
         "BGN": 1.9581,
         "ARS": 24.577603
     }
-}{
+},{
     "success": true,
     "timestamp": 1518825599,
     "historical": true,
@@ -2252,7 +2252,7 @@
         "BGN": 1.948586,
         "ARS": 24.536074
     }
-}{
+},{
     "success": true,
     "timestamp": 1518911999,
     "historical": true,
@@ -2301,7 +2301,7 @@
         "BGN": 1.948586,
         "ARS": 24.536074
     }
-}{
+},{
     "success": true,
     "timestamp": 1518998399,
     "historical": true,
@@ -2350,7 +2350,7 @@
         "BGN": 1.948338,
         "ARS": 24.534273
     }
-}{
+},{
     "success": true,
     "timestamp": 1519084799,
     "historical": true,
@@ -2399,7 +2399,7 @@
         "BGN": 1.954113,
         "ARS": 24.662056
     }
-}{
+},{
     "success": true,
     "timestamp": 1519171199,
     "historical": true,
@@ -2448,7 +2448,7 @@
         "BGN": 1.955861,
         "ARS": 24.481938
     }
-}{
+},{
     "success": true,
     "timestamp": 1519257599,
     "historical": true,
@@ -2497,7 +2497,7 @@
         "BGN": 1.95158,
         "ARS": 24.431026
     }
-}{
+},{
     "success": true,
     "timestamp": 1519343999,
     "historical": true,
@@ -2546,7 +2546,7 @@
         "BGN": 1.964413,
         "ARS": 24.572471
     }
-}{
+},{
     "success": true,
     "timestamp": 1519430399,
     "historical": true,
@@ -2595,7 +2595,7 @@
         "BGN": 1.95548,
         "ARS": 24.531355
     }
-}{
+},{
     "success": true,
     "timestamp": 1519516799,
     "historical": true,
@@ -2644,7 +2644,7 @@
         "BGN": 1.95548,
         "ARS": 24.531355
     }
-}{
+},{
     "success": true,
     "timestamp": 1519603199,
     "historical": true,
@@ -2693,7 +2693,7 @@
         "BGN": 1.954278,
         "ARS": 24.5176
     }
-}{
+},{
     "success": true,
     "timestamp": 1519689599,
     "historical": true,
@@ -2742,7 +2742,7 @@
         "BGN": 1.955769,
         "ARS": 24.824714
     }
-}{
+},{
     "success": true,
     "timestamp": 1519775999,
     "historical": true,
@@ -2791,7 +2791,7 @@
         "BGN": 1.945303,
         "ARS": 24.708138
     }
-}{
+},{
     "success": true,
     "timestamp": 1519862399,
     "historical": true,
@@ -2840,7 +2840,7 @@
         "BGN": 1.953564,
         "ARS": 24.53271
     }
-}{
+},{
     "success": true,
     "timestamp": 1519948799,
     "historical": true,
@@ -2889,7 +2889,7 @@
         "BGN": 1.972503,
         "ARS": 24.708494
     }
-}{
+},{
     "success": true,
     "timestamp": 1520035199,
     "historical": true,
@@ -2938,7 +2938,7 @@
         "BGN": 1.957122,
         "ARS": 24.94801
     }
-}{
+},{
     "success": true,
     "timestamp": 1520121599,
     "historical": true,
@@ -2987,7 +2987,7 @@
         "BGN": 1.957122,
         "ARS": 24.946284
     }
-}{
+},{
     "success": true,
     "timestamp": 1520207999,
     "historical": true,
@@ -3036,7 +3036,7 @@
         "BGN": 1.957127,
         "ARS": 24.947388
     }
-}{
+},{
     "success": true,
     "timestamp": 1520294399,
     "historical": true,
@@ -3085,7 +3085,7 @@
         "BGN": 1.960268,
         "ARS": 24.907488
     }
-}{
+},{
     "success": true,
     "timestamp": 1520380799,
     "historical": true,
@@ -3134,7 +3134,7 @@
         "BGN": 1.957149,
         "ARS": 25.20498
     }
-}{
+},{
     "success": true,
     "timestamp": 1520467199,
     "historical": true,
@@ -3183,7 +3183,7 @@
         "BGN": 1.955678,
         "ARS": 25.29181
     }
-}{
+},{
     "success": true,
     "timestamp": 1520553599,
     "historical": true,
@@ -3232,7 +3232,7 @@
         "BGN": 1.938454,
         "ARS": 25.026577
     }
-}{
+},{
     "success": true,
     "timestamp": 1520639999,
     "historical": true,
@@ -3281,7 +3281,7 @@
         "BGN": 1.959001,
         "ARS": 24.892154
     }
-}{
+},{
     "success": true,
     "timestamp": 1520726399,
     "historical": true,
@@ -3330,7 +3330,7 @@
         "BGN": 1.959001,
         "ARS": 24.890975
     }
-}{
+},{
     "success": true,
     "timestamp": 1520812799,
     "historical": true,
@@ -3379,7 +3379,7 @@
         "BGN": 1.959257,
         "ARS": 24.894244
     }
-}{
+},{
     "success": true,
     "timestamp": 1520899199,
     "historical": true,
@@ -3428,7 +3428,7 @@
         "BGN": 1.962221,
         "ARS": 24.899917
     }
-}{
+},{
     "success": true,
     "timestamp": 1520985599,
     "historical": true,
@@ -3477,7 +3477,7 @@
         "BGN": 1.95871,
         "ARS": 25.024069
     }
-}{
+},{
     "success": true,
     "timestamp": 1521071999,
     "historical": true,
@@ -3526,7 +3526,7 @@
         "BGN": 1.957418,
         "ARS": 25.017425
     }
-}{
+},{
     "success": true,
     "timestamp": 1521158399,
     "historical": true,
@@ -3575,7 +3575,7 @@
         "BGN": 1.951007,
         "ARS": 25.003035
     }
-}{
+},{
     "success": true,
     "timestamp": 1521244799,
     "historical": true,
@@ -3624,7 +3624,7 @@
         "BGN": 1.956115,
         "ARS": 24.796315
     }
-}{
+},{
     "success": true,
     "timestamp": 1521331199,
     "historical": true,
@@ -3673,7 +3673,7 @@
         "BGN": 1.956115,
         "ARS": 24.794641
     }
-}{
+},{
     "success": true,
     "timestamp": 1521417599,
     "historical": true,
@@ -3722,7 +3722,7 @@
         "BGN": 1.953308,
         "ARS": 24.762429
     }
-}{
+},{
     "success": true,
     "timestamp": 1521503999,
     "historical": true,
@@ -3771,7 +3771,7 @@
         "BGN": 1.960634,
         "ARS": 24.913572
     }
-}{
+},{
     "success": true,
     "timestamp": 1521590399,
     "historical": true,
@@ -3820,7 +3820,7 @@
         "BGN": 1.951968,
         "ARS": 24.784304
     }
-}{
+},{
     "success": true,
     "timestamp": 1521676799,
     "historical": true,
@@ -3869,7 +3869,7 @@
         "BGN": 1.96628,
         "ARS": 25.024898
     }
-}{
+},{
     "success": true,
     "timestamp": 1521763199,
     "historical": true,
@@ -3918,7 +3918,7 @@
         "BGN": 1.957869,
         "ARS": 24.905635
     }
-}{
+},{
     "success": true,
     "timestamp": 1521849599,
     "historical": true,
@@ -3967,7 +3967,7 @@
         "BGN": 1.958457,
         "ARS": 24.923843
     }
-}{
+},{
     "success": true,
     "timestamp": 1521935999,
     "historical": true,
@@ -4016,7 +4016,7 @@
         "BGN": 1.958457,
         "ARS": 24.925082
     }
-}{
+},{
     "success": true,
     "timestamp": 1522022399,
     "historical": true,
@@ -4065,7 +4065,7 @@
         "BGN": 1.957734,
         "ARS": 24.916
     }
-}{
+},{
     "success": true,
     "timestamp": 1522108799,
     "historical": true,
@@ -4114,7 +4114,7 @@
         "BGN": 1.963729,
         "ARS": 25.121294
     }
-}{
+},{
     "success": true,
     "timestamp": 1522195199,
     "historical": true,
@@ -4163,7 +4163,7 @@
         "BGN": 1.96164,
         "ARS": 24.994979
     }
-}{
+},{
     "success": true,
     "timestamp": 1522281599,
     "historical": true,
@@ -4212,7 +4212,7 @@
         "BGN": 1.942663,
         "ARS": 24.802014
     }
-}{
+},{
     "success": true,
     "timestamp": 1522367999,
     "historical": true,
@@ -4261,7 +4261,7 @@
         "BGN": 1.953487,
         "ARS": 24.747785
     }
-}{
+},{
     "success": true,
     "timestamp": 1522454399,
     "historical": true,
@@ -4310,7 +4310,7 @@
         "BGN": 1.956849,
         "ARS": 24.79031
     }
-}{
+},{
     "success": true,
     "timestamp": 1522540799,
     "historical": true,
@@ -4359,7 +4359,7 @@
         "BGN": 1.956849,
         "ARS": 24.789074
     }
-}{
+},{
     "success": true,
     "timestamp": 1522627199,
     "historical": true,
@@ -4408,7 +4408,7 @@
         "BGN": 1.955168,
         "ARS": 24.767811
     }
-}{
+},{
     "success": true,
     "timestamp": 1522713599,
     "historical": true,
@@ -4457,7 +4457,7 @@
         "BGN": 1.952046,
         "ARS": 24.728252
     }
-}{
+},{
     "success": true,
     "timestamp": 1522799999,
     "historical": true,
@@ -4506,7 +4506,7 @@
         "BGN": 1.951742,
         "ARS": 24.747842
     }
-}{
+},{
     "success": true,
     "timestamp": 1522886399,
     "historical": true,
@@ -4555,7 +4555,7 @@
         "BGN": 1.957961,
         "ARS": 24.765796
     }
-}{
+},{
     "success": true,
     "timestamp": 1522972799,
     "historical": true,
@@ -4604,7 +4604,7 @@
         "BGN": 1.955255,
         "ARS": 24.719847
     }
-}{
+},{
     "success": true,
     "timestamp": 1523059199,
     "historical": true,
@@ -4653,7 +4653,7 @@
         "BGN": 1.960305,
         "ARS": 24.767682
     }
-}{
+},{
     "success": true,
     "timestamp": 1523145599,
     "historical": true,
@@ -4702,7 +4702,7 @@
         "BGN": 1.960305,
         "ARS": 24.767682
     }
-}{
+},{
     "success": true,
     "timestamp": 1523231999,
     "historical": true,
@@ -4751,7 +4751,7 @@
         "BGN": 1.958146,
         "ARS": 24.741675
     }
-}{
+},{
     "success": true,
     "timestamp": 1523318399,
     "historical": true,
@@ -4800,7 +4800,7 @@
         "BGN": 1.966593,
         "ARS": 24.886654
     }
-}{
+},{
     "success": true,
     "timestamp": 1523404799,
     "historical": true,
@@ -4849,7 +4849,7 @@
         "BGN": 1.956844,
         "ARS": 24.897377
     }
-}{
+},{
     "success": true,
     "timestamp": 1523491199,
     "historical": true,
@@ -4898,7 +4898,7 @@
         "BGN": 1.95434,
         "ARS": 24.928882
     }
-}{
+},{
     "success": true,
     "timestamp": 1523577599,
     "historical": true,
@@ -4947,7 +4947,7 @@
         "BGN": 1.957449,
         "ARS": 24.892718
     }
-}{
+},{
     "success": true,
     "timestamp": 1523663999,
     "historical": true,
@@ -4996,7 +4996,7 @@
         "BGN": 1.958915,
         "ARS": 24.908634
     }
-}{
+},{
     "success": true,
     "timestamp": 1523750399,
     "historical": true,
@@ -5045,7 +5045,7 @@
         "BGN": 1.958915,
         "ARS": 24.907351
     }
-}{
+},{
     "success": true,
     "timestamp": 1523836799,
     "historical": true,
@@ -5094,7 +5094,7 @@
         "BGN": 1.958921,
         "ARS": 24.908671
     }
-}{
+},{
     "success": true,
     "timestamp": 1523923199,
     "historical": true,
@@ -5143,7 +5143,7 @@
         "BGN": 1.958494,
         "ARS": 25.041492
     }
-}{
+},{
     "success": true,
     "timestamp": 1524009599,
     "historical": true,
@@ -5192,7 +5192,7 @@
         "BGN": 1.958963,
         "ARS": 24.943725
     }
-}{
+},{
     "success": true,
     "timestamp": 1524095999,
     "historical": true,
@@ -5241,7 +5241,7 @@
         "BGN": 1.954923,
         "ARS": 24.894658
     }
-}{
+},{
     "success": true,
     "timestamp": 1524182399,
     "historical": true,
@@ -5290,7 +5290,7 @@
         "BGN": 1.950611,
         "ARS": 24.869158
     }
-}{
+},{
     "success": true,
     "timestamp": 1524268799,
     "historical": true,
@@ -5339,7 +5339,7 @@
         "BGN": 1.952441,
         "ARS": 24.788572
     }
-}{
+},{
     "success": true,
     "timestamp": 1524355199,
     "historical": true,
@@ -5388,7 +5388,7 @@
         "BGN": 1.952441,
         "ARS": 24.787293
     }
-}{
+},{
     "success": true,
     "timestamp": 1524441599,
     "historical": true,
@@ -5437,7 +5437,7 @@
         "BGN": 1.951001,
         "ARS": 24.770359
     }
-}{
+},{
     "success": true,
     "timestamp": 1524527999,
     "historical": true,
@@ -5486,7 +5486,7 @@
         "BGN": 1.951887,
         "ARS": 24.707116
     }
-}{
+},{
     "success": true,
     "timestamp": 1524614399,
     "historical": true,
@@ -5535,7 +5535,7 @@
         "BGN": 1.960575,
         "ARS": 24.797902
     }
-}{
+},{
     "success": true,
     "timestamp": 1524700799,
     "historical": true,
@@ -5584,7 +5584,7 @@
         "BGN": 1.954351,
         "ARS": 24.634234
     }
-}{
+},{
     "success": true,
     "timestamp": 1524787199,
     "historical": true,
@@ -5633,7 +5633,7 @@
         "BGN": 1.946946,
         "ARS": 24.866734
     }
-}{
+},{
     "success": true,
     "timestamp": 1524873599,
     "historical": true,
@@ -5682,7 +5682,7 @@
         "BGN": 1.965784,
         "ARS": 24.885283
     }
-}{
+},{
     "success": true,
     "timestamp": 1524959999,
     "historical": true,
@@ -5731,7 +5731,7 @@
         "BGN": 1.965784,
         "ARS": 24.885283
     }
-}{
+},{
     "success": true,
     "timestamp": 1525046399,
     "historical": true,
@@ -5780,7 +5780,7 @@
         "BGN": 1.964594,
         "ARS": 24.870258
     }
-}{
+},{
     "success": true,
     "timestamp": 1525132799,
     "historical": true,
@@ -5829,7 +5829,7 @@
         "BGN": 1.956735,
         "ARS": 24.789149
     }
-}{
+},{
     "success": true,
     "timestamp": 1525219199,
     "historical": true,
@@ -5878,7 +5878,7 @@
         "BGN": 1.942174,
         "ARS": 24.60467
     }
-}{
+},{
     "success": true,
     "timestamp": 1525305599,
     "historical": true,
@@ -5927,7 +5927,7 @@
         "BGN": 1.947516,
         "ARS": 25.297718
     }
-}{
+},{
     "success": true,
     "timestamp": 1525391999,
     "historical": true,
@@ -5976,7 +5976,7 @@
         "BGN": 1.955982,
         "ARS": 26.684969
     }
-}{
+},{
     "success": true,
     "timestamp": 1525478399,
     "historical": true,
@@ -6025,7 +6025,7 @@
         "BGN": 1.955362,
         "ARS": 26.114505
     }
-}{
+},{
     "success": true,
     "timestamp": 1525564799,
     "historical": true,
@@ -6074,7 +6074,7 @@
         "BGN": 1.955362,
         "ARS": 26.113359
     }
-}{
+},{
     "success": true,
     "timestamp": 1525651199,
     "historical": true,
@@ -6123,7 +6123,7 @@
         "BGN": 1.954442,
         "ARS": 26.102217
     }
-}{
+},{
     "success": true,
     "timestamp": 1525737599,
     "historical": true,
@@ -6172,7 +6172,7 @@
         "BGN": 1.951397,
         "ARS": 26.17024
     }
-}{
+},{
     "success": true,
     "timestamp": 1525823999,
     "historical": true,
@@ -6221,7 +6221,7 @@
         "BGN": 1.95596,
         "ARS": 26.5313
     }
-}{
+},{
     "success": true,
     "timestamp": 1525910399,
     "historical": true,
@@ -6270,7 +6270,7 @@
         "BGN": 1.95105,
         "ARS": 26.856188
     }
-}{
+},{
     "success": true,
     "timestamp": 1525996799,
     "historical": true,
@@ -6319,7 +6319,7 @@
         "BGN": 1.962527,
         "ARS": 27.042262
     }
-}{
+},{
     "success": true,
     "timestamp": 1526083199,
     "historical": true,
@@ -6368,7 +6368,7 @@
         "BGN": 1.958294,
         "ARS": 27.482679
     }
-}{
+},{
     "success": true,
     "timestamp": 1526169599,
     "historical": true,
@@ -6417,7 +6417,7 @@
         "BGN": 1.958294,
         "ARS": 27.482679
     }
-}{
+},{
     "success": true,
     "timestamp": 1526255999,
     "historical": true,
@@ -6466,7 +6466,7 @@
         "BGN": 1.95924,
         "ARS": 27.495453
     }
-}{
+},{
     "success": true,
     "timestamp": 1526342399,
     "historical": true,
@@ -6515,7 +6515,7 @@
         "BGN": 1.947369,
         "ARS": 29.778021
     }
-}{
+},{
     "success": true,
     "timestamp": 1526428799,
     "historical": true,
@@ -6564,7 +6564,7 @@
         "BGN": 1.946433,
         "ARS": 28.407046
     }
-}{
+},{
     "success": true,
     "timestamp": 1526515199,
     "historical": true,
@@ -6613,7 +6613,7 @@
         "BGN": 1.96159,
         "ARS": 28.655065
     }
-}{
+},{
     "success": true,
     "timestamp": 1526601599,
     "historical": true,
@@ -6662,7 +6662,7 @@
         "BGN": 1.954229,
         "ARS": 28.641188
     }
-}{
+},{
     "success": true,
     "timestamp": 1526687999,
     "historical": true,
@@ -6711,7 +6711,7 @@
         "BGN": 1.954552,
         "ARS": 28.696637
     }
-}{
+},{
     "success": true,
     "timestamp": 1526774399,
     "historical": true,
@@ -6760,7 +6760,7 @@
         "BGN": 1.954552,
         "ARS": 28.696637
     }
-}{
+},{
     "success": true,
     "timestamp": 1526860799,
     "historical": true,
@@ -6809,7 +6809,7 @@
         "BGN": 1.954101,
         "ARS": 28.690037
     }
-}{
+},{
     "success": true,
     "timestamp": 1526947199,
     "historical": true,
@@ -6858,7 +6858,7 @@
         "BGN": 1.961674,
         "ARS": 28.715651
     }
-}{
+},{
     "success": true,
     "timestamp": 1527033599,
     "historical": true,
@@ -6907,7 +6907,7 @@
         "BGN": 1.955319,
         "ARS": 28.598136
     }
-}{
+},{
     "success": true,
     "timestamp": 1527119999,
     "historical": true,
@@ -6956,7 +6956,7 @@
         "BGN": 1.956542,
         "ARS": 28.637819
     }
-}{
+},{
     "success": true,
     "timestamp": 1527206399,
     "historical": true,
@@ -7005,7 +7005,7 @@
         "BGN": 1.958841,
         "ARS": 28.793338
     }
-}{
+},{
     "success": true,
     "timestamp": 1527292799,
     "historical": true,
@@ -7054,7 +7054,7 @@
         "BGN": 1.954265,
         "ARS": 28.673499
     }
-}{
+},{
     "success": true,
     "timestamp": 1527379199,
     "historical": true,
@@ -7103,7 +7103,7 @@
         "BGN": 1.948782,
         "ARS": 28.673499
     }
-}{
+},{
     "success": true,
     "timestamp": 1527465599,
     "historical": true,
@@ -7152,7 +7152,7 @@
         "BGN": 1.953117,
         "ARS": 28.73806
     }
-}{
+},{
     "success": true,
     "timestamp": 1527551999,
     "historical": true,
@@ -7201,7 +7201,7 @@
         "BGN": 1.953372,
         "ARS": 28.747593
     }
-}{
+},{
     "success": true,
     "timestamp": 1527638399,
     "historical": true,
@@ -7250,7 +7250,7 @@
         "BGN": 1.953138,
         "ARS": 28.665704
     }
-}{
+},{
     "success": true,
     "timestamp": 1527724799,
     "historical": true,
@@ -7299,7 +7299,7 @@
         "BGN": 1.961944,
         "ARS": 29.078127
     }
-}{
+},{
     "success": true,
     "timestamp": 1527811199,
     "historical": true,
@@ -7348,7 +7348,7 @@
         "BGN": 1.955318,
         "ARS": 29.170681
     }
-}{
+},{
     "success": true,
     "timestamp": 1527897599,
     "historical": true,
@@ -7397,7 +7397,7 @@
         "BGN": 1.955315,
         "ARS": 29.102755
     }
-}{
+},{
     "success": true,
     "timestamp": 1527983999,
     "historical": true,
@@ -7446,7 +7446,7 @@
         "BGN": 1.955315,
         "ARS": 29.102755
     }
-}{
+},{
     "success": true,
     "timestamp": 1528070399,
     "historical": true,
@@ -7495,7 +7495,7 @@
         "BGN": 1.956231,
         "ARS": 29.117627
     }
-}{
+},{
     "success": true,
     "timestamp": 1528156799,
     "historical": true,
@@ -7544,7 +7544,7 @@
         "BGN": 1.950384,
         "ARS": 29.189038
     }
-}{
+},{
     "success": true,
     "timestamp": 1528243199,
     "historical": true,
@@ -7593,7 +7593,7 @@
         "BGN": 1.964818,
         "ARS": 29.227765
     }
-}{
+},{
     "success": true,
     "timestamp": 1528329599,
     "historical": true,
@@ -7642,7 +7642,7 @@
         "BGN": 1.959228,
         "ARS": 29.341284
     }
-}{
+},{
     "success": true,
     "timestamp": 1528415999,
     "historical": true,
@@ -7691,7 +7691,7 @@
         "BGN": 1.94927,
         "ARS": 29.468129
     }
-}{
+},{
     "success": true,
     "timestamp": 1528502399,
     "historical": true,
@@ -7740,7 +7740,7 @@
         "BGN": 1.958608,
         "ARS": 29.766806
     }
-}{
+},{
     "success": true,
     "timestamp": 1528588799,
     "historical": true,
@@ -7789,7 +7789,7 @@
         "BGN": 1.958608,
         "ARS": 29.766806
     }
-}{
+},{
     "success": true,
     "timestamp": 1528675199,
     "historical": true,
@@ -7837,7 +7837,7 @@
         "BGN": 1.956805,
         "ARS": 29.772567
     }
-}{
+},{
     "success": true,
     "timestamp": 1528761599,
     "historical": true,
@@ -7886,7 +7886,7 @@
         "BGN": 1.953889,
         "ARS": 30.633953
     }
-}{
+},{
     "success": true,
     "timestamp": 1528847999,
     "historical": true,
@@ -7935,7 +7935,7 @@
         "BGN": 1.949672,
         "ARS": 30.22386
     }
-}{
+},{
     "success": true,
     "timestamp": 1528934399,
     "historical": true,
@@ -7984,7 +7984,7 @@
         "BGN": 1.963165,
         "ARS": 30.699108
     }
-}{
+},{
     "success": true,
     "timestamp": 1529020799,
     "historical": true,
@@ -8033,7 +8033,7 @@
         "BGN": 1.929187,
         "ARS": 32.049033
     }
-}{
+},{
     "success": true,
     "timestamp": 1529107199,
     "historical": true,
@@ -8082,7 +8082,7 @@
         "BGN": 1.957289,
         "ARS": 32.550665
     }
-}{
+},{
     "success": true,
     "timestamp": 1529193599,
     "historical": true,
@@ -8131,7 +8131,7 @@
         "BGN": 1.957289,
         "ARS": 32.550665
     }
-}{
+},{
     "success": true,
     "timestamp": 1529279999,
     "historical": true,
@@ -8180,7 +8180,7 @@
         "BGN": 1.955934,
         "ARS": 32.529263
     }
-}{
+},{
     "success": true,
     "timestamp": 1529366399,
     "historical": true,
@@ -8229,7 +8229,7 @@
         "BGN": 1.95929,
         "ARS": 32.076677
     }
-}{
+},{
     "success": true,
     "timestamp": 1529452799,
     "historical": true,
@@ -8278,7 +8278,7 @@
         "BGN": 1.966025,
         "ARS": 32.143682
     }
-}{
+},{
     "success": true,
     "timestamp": 1529539199,
     "historical": true,
@@ -8327,7 +8327,7 @@
         "BGN": 1.956577,
         "ARS": 32.109192
     }
-}{
+},{
     "success": true,
     "timestamp": 1529625599,
     "historical": true,
@@ -8376,7 +8376,7 @@
         "BGN": 1.967843,
         "ARS": 31.886428
     }
-}{
+},{
     "success": true,
     "timestamp": 1529711999,
     "historical": true,
@@ -8425,7 +8425,7 @@
         "BGN": 1.956906,
         "ARS": 31.458945
     }
-}{
+},{
     "success": true,
     "timestamp": 1529798399,
     "historical": true,
@@ -8474,7 +8474,7 @@
         "BGN": 1.956906,
         "ARS": 31.458945
     }
-}{
+},{
     "success": true,
     "timestamp": 1529884799,
     "historical": true,
@@ -8523,7 +8523,7 @@
         "BGN": 1.958588,
         "ARS": 31.485915
     }
-}{
+},{
     "success": true,
     "timestamp": 1529971199,
     "historical": true,
@@ -8572,7 +8572,7 @@
         "BGN": 1.956575,
         "ARS": 31.695046
     }
-}{
+},{
     "success": true,
     "timestamp": 1530057599,
     "historical": true,
@@ -8621,7 +8621,7 @@
         "BGN": 1.952809,
         "ARS": 31.523182
     }
-}{
+},{
     "success": true,
     "timestamp": 1530143999,
     "historical": true,
@@ -8670,7 +8670,7 @@
         "BGN": 1.947603,
         "ARS": 31.729627
     }
-}{
+},{
     "success": true,
     "timestamp": 1530230399,
     "historical": true,
@@ -8719,7 +8719,7 @@
         "BGN": 1.952936,
         "ARS": 32.349132
     }
-}{
+},{
     "success": true,
     "timestamp": 1530316799,
     "historical": true,
@@ -8768,7 +8768,7 @@
         "BGN": 1.9613,
         "ARS": 33.761819
     }
-}{
+},{
     "success": true,
     "timestamp": 1530403199,
     "historical": true,
@@ -8817,7 +8817,7 @@
         "BGN": 1.9613,
         "ARS": 33.761819
     }
-}{
+},{
     "success": true,
     "timestamp": 1530489599,
     "historical": true,
@@ -8866,7 +8866,7 @@
         "BGN": 1.960162,
         "ARS": 33.742363
     }
-}{
+},{
     "success": true,
     "timestamp": 1530575999,
     "historical": true,
@@ -8915,7 +8915,7 @@
         "BGN": 1.956901,
         "ARS": 32.883223
     }
-}{
+},{
     "success": true,
     "timestamp": 1530662399,
     "historical": true,
@@ -8964,7 +8964,7 @@
         "BGN": 1.955097,
         "ARS": 32.534836
     }
-}{
+},{
     "success": true,
     "timestamp": 1530748799,
     "historical": true,
@@ -9013,7 +9013,7 @@
         "BGN": 1.959667,
         "ARS": 32.707372
     }
-}{
+},{
     "success": true,
     "timestamp": 1530835199,
     "historical": true,
@@ -9062,7 +9062,7 @@
         "BGN": 1.953698,
         "ARS": 32.793213
     }
-}{
+},{
     "success": true,
     "timestamp": 1530921599,
     "historical": true,
@@ -9111,7 +9111,7 @@
         "BGN": 1.961661,
         "ARS": 32.795046
     }
-}{
+},{
     "success": true,
     "timestamp": 1531007999,
     "historical": true,
@@ -9160,7 +9160,7 @@
         "BGN": 1.961661,
         "ARS": 32.79387
     }
-}{
+},{
     "success": true,
     "timestamp": 1531094399,
     "historical": true,
@@ -9209,7 +9209,7 @@
         "BGN": 1.969786,
         "ARS": 31.797303
     }
-}{
+},{
     "success": true,
     "timestamp": 1531180799,
     "historical": true,
@@ -9258,7 +9258,7 @@
         "BGN": 1.950854,
         "ARS": 32.795237
     }
-}{
+},{
     "success": true,
     "timestamp": 1531267199,
     "historical": true,
@@ -9307,7 +9307,7 @@
         "BGN": 1.958703,
         "ARS": 32.039716
     }
-}{
+},{
     "success": true,
     "timestamp": 1531353599,
     "historical": true,
@@ -9356,7 +9356,7 @@
         "BGN": 1.9464,
         "ARS": 31.936355
     }
-}{
+},{
     "success": true,
     "timestamp": 1531439999,
     "historical": true,
@@ -9405,7 +9405,7 @@
         "BGN": 1.957417,
         "ARS": 31.708224
     }
-}{
+},{
     "success": true,
     "timestamp": 1531526399,
     "historical": true,
@@ -9454,7 +9454,7 @@
         "BGN": 1.963526,
         "ARS": 31.789443
     }
-}{
+},{
     "success": true,
     "timestamp": 1531612799,
     "historical": true,
@@ -9503,7 +9503,7 @@
         "BGN": 1.963526,
         "ARS": 31.789443
     }
-}{
+},{
     "success": true,
     "timestamp": 1531699199,
     "historical": true,
@@ -9552,7 +9552,7 @@
         "BGN": 1.962158,
         "ARS": 31.767416
     }
-}{
+},{
     "success": true,
     "timestamp": 1531785599,
     "historical": true,
@@ -9601,7 +9601,7 @@
         "BGN": 1.954799,
         "ARS": 31.978651
     }
-}{
+},{
     "success": true,
     "timestamp": 1531871999,
     "historical": true,
@@ -9650,7 +9650,7 @@
         "BGN": 1.94732,
         "ARS": 32.046991
     }
-}{
+},{
     "success": true,
     "timestamp": 1531958399,
     "historical": true,
@@ -9699,7 +9699,7 @@
         "BGN": 1.962138,
         "ARS": 32.160663
     }
-}{
+},{
     "success": true,
     "timestamp": 1532044799,
     "historical": true,
@@ -9748,7 +9748,7 @@
         "BGN": 1.96783,
         "ARS": 32.319227
     }
-}{
+},{
     "success": true,
     "timestamp": 1532131199,
     "historical": true,
@@ -9797,7 +9797,7 @@
         "BGN": 1.966483,
         "ARS": 32.348081
     }
-}{
+},{
     "success": true,
     "timestamp": 1532217599,
     "historical": true,
@@ -9846,7 +9846,7 @@
         "BGN": 1.966483,
         "ARS": 32.348081
     }
-}{
+},{
     "success": true,
     "timestamp": 1532303999,
     "historical": true,
@@ -9895,7 +9895,7 @@
         "BGN": 1.966383,
         "ARS": 32.347615
     }
-}{
+},{
     "success": true,
     "timestamp": 1532390399,
     "historical": true,
@@ -9944,7 +9944,7 @@
         "BGN": 1.952751,
         "ARS": 32.257713
     }
-}{
+},{
     "success": true,
     "timestamp": 1532476799,
     "historical": true,
@@ -9993,7 +9993,7 @@
         "BGN": 1.952779,
         "ARS": 32.085072
     }
-}{
+},{
     "success": true,
     "timestamp": 1532563199,
     "historical": true,
@@ -10042,7 +10042,7 @@
         "BGN": 1.964422,
         "ARS": 32.102817
     }
-}{
+},{
     "success": true,
     "timestamp": 1532649599,
     "historical": true,
@@ -10091,7 +10091,7 @@
         "BGN": 1.944332,
         "ARS": 31.879753
     }
-}{
+},{
     "success": true,
     "timestamp": 1532735999,
     "historical": true,
@@ -10140,7 +10140,7 @@
         "BGN": 1.960606,
         "ARS": 31.808543
     }
-}{
+},{
     "success": true,
     "timestamp": 1532822399,
     "historical": true,
@@ -10189,7 +10189,7 @@
         "BGN": 1.960606,
         "ARS": 31.808543
     }
-}{
+},{
     "success": true,
     "timestamp": 1532908799,
     "historical": true,
@@ -10238,7 +10238,7 @@
         "BGN": 1.956452,
         "ARS": 31.850166
     }
-}{
+},{
     "success": true,
     "timestamp": 1532995199,
     "historical": true,
@@ -10287,7 +10287,7 @@
         "BGN": 1.955589,
         "ARS": 31.904704
     }
-}{
+},{
     "success": true,
     "timestamp": 1533081599,
     "historical": true,
@@ -10336,7 +10336,7 @@
         "BGN": 1.956082,
         "ARS": 32.054331
     }
-}{
+},{
     "success": true,
     "timestamp": 1533167999,
     "historical": true,
@@ -10385,7 +10385,7 @@
         "BGN": 1.955442,
         "ARS": 32.070568
     }
-}{
+},{
     "success": true,
     "timestamp": 1533254399,
     "historical": true,
@@ -10434,7 +10434,7 @@
         "BGN": 1.955696,
         "ARS": 31.790868
     }
-}{
+},{
     "success": true,
     "timestamp": 1533340799,
     "historical": true,
@@ -10483,7 +10483,7 @@
         "BGN": 1.958492,
         "ARS": 31.571665
     }
-}{
+},{
     "success": true,
     "timestamp": 1533427199,
     "historical": true,
@@ -10532,7 +10532,7 @@
         "BGN": 1.958492,
         "ARS": 31.571665
     }
-}{
+},{
     "success": true,
     "timestamp": 1533513599,
     "historical": true,
@@ -10581,7 +10581,7 @@
         "BGN": 1.955055,
         "ARS": 31.571248
     }
-}{
+},{
     "success": true,
     "timestamp": 1533599999,
     "historical": true,
@@ -10630,7 +10630,7 @@
         "BGN": 1.956071,
         "ARS": 31.560738
     }
-}{
+},{
     "success": true,
     "timestamp": 1533686399,
     "historical": true,
@@ -10679,7 +10679,7 @@
         "BGN": 1.956108,
         "ARS": 31.772926
     }
-}{
+},{
     "success": true,
     "timestamp": 1533772799,
     "historical": true,
@@ -10728,7 +10728,7 @@
         "BGN": 1.95602,
         "ARS": 32.067019
     }
-}{
+},{
     "success": true,
     "timestamp": 1533859199,
     "historical": true,
@@ -10777,7 +10777,7 @@
         "BGN": 1.956566,
         "ARS": 32.347636
     }
-}{
+},{
     "success": true,
     "timestamp": 1533945599,
     "historical": true,
@@ -10826,7 +10826,7 @@
         "BGN": 1.957936,
         "ARS": 33.354893
     }
-}{
+},{
     "success": true,
     "timestamp": 1534031999,
     "historical": true,
@@ -10875,7 +10875,7 @@
         "BGN": 1.957936,
         "ARS": 33.354893
     }
-}{
+},{
     "success": true,
     "timestamp": 1534118399,
     "historical": true,
@@ -10924,7 +10924,7 @@
         "BGN": 1.953154,
         "ARS": 33.354985
     }
-}{
+},{
     "success": true,
     "timestamp": 1534204799,
     "historical": true,
@@ -10973,7 +10973,7 @@
         "BGN": 1.956005,
         "ARS": 34.133192
     }
-}{
+},{
     "success": true,
     "timestamp": 1534291199,
     "historical": true,
@@ -11022,7 +11022,7 @@
         "BGN": 1.95552,
         "ARS": 33.768368
     }
-}{
+},{
     "success": true,
     "timestamp": 1534377599,
     "historical": true,
@@ -11071,7 +11071,7 @@
         "BGN": 1.955962,
         "ARS": 33.843903
     }
-}{
+},{
     "success": true,
     "timestamp": 1534463999,
     "historical": true,
@@ -11120,7 +11120,7 @@
         "BGN": 1.955649,
         "ARS": 33.803848
     }
-}{
+},{
     "success": true,
     "timestamp": 1534550399,
     "historical": true,
@@ -11169,7 +11169,7 @@
         "BGN": 1.95713,
         "ARS": 34.15672
     }
-}{
+},{
     "success": true,
     "timestamp": 1534636799,
     "historical": true,
@@ -11218,7 +11218,7 @@
         "BGN": 1.95713,
         "ARS": 34.15672
     }
-}{
+},{
     "success": true,
     "timestamp": 1534723199,
     "historical": true,
@@ -11267,7 +11267,7 @@
         "BGN": 1.955314,
         "ARS": 34.154817
     }
-}{
+},{
     "success": true,
     "timestamp": 1534809599,
     "historical": true,
@@ -11316,7 +11316,7 @@
         "BGN": 1.955991,
         "ARS": 34.301345
     }
-}{
+},{
     "success": true,
     "timestamp": 1534895999,
     "historical": true,
@@ -11365,7 +11365,7 @@
         "BGN": 1.955936,
         "ARS": 34.708901
     }
-}{
+},{
     "success": true,
     "timestamp": 1534982399,
     "historical": true,
@@ -11414,7 +11414,7 @@
         "BGN": 1.956058,
         "ARS": 35.025261
     }
-}{
+},{
     "success": true,
     "timestamp": 1535068799,
     "historical": true,
@@ -11463,7 +11463,7 @@
         "BGN": 1.955711,
         "ARS": 35.159589
     }
-}{
+},{
     "success": true,
     "timestamp": 1535155199,
     "historical": true,
@@ -11512,7 +11512,7 @@
         "BGN": 1.957343,
         "ARS": 35.842646
     }
-}{
+},{
     "success": true,
     "timestamp": 1535241599,
     "historical": true,
@@ -11561,7 +11561,7 @@
         "BGN": 1.957343,
         "ARS": 35.842646
     }
-}{
+},{
     "success": true,
     "timestamp": 1535327999,
     "historical": true,
@@ -11610,7 +11610,7 @@
         "BGN": 1.960046,
         "ARS": 35.841517
     }
-}{
+},{
     "success": true,
     "timestamp": 1535414399,
     "historical": true,
@@ -11659,7 +11659,7 @@
         "BGN": 1.956248,
         "ARS": 36.1638
     }
-}{
+},{
     "success": true,
     "timestamp": 1535500799,
     "historical": true,
@@ -11708,7 +11708,7 @@
         "BGN": 1.955656,
         "ARS": 36.791894
     }
-}{
+},{
     "success": true,
     "timestamp": 1535587199,
     "historical": true,
@@ -11757,7 +11757,7 @@
         "BGN": 1.956058,
         "ARS": 39.814266
     }
-}{
+},{
     "success": true,
     "timestamp": 1535673599,
     "historical": true,
@@ -11806,7 +11806,7 @@
         "BGN": 1.9561,
         "ARS": 45.179484
     }
-}{
+},{
     "success": true,
     "timestamp": 1535759999,
     "historical": true,
@@ -11855,7 +11855,7 @@
         "BGN": 1.958458,
         "ARS": 42.815935
     }
-}{
+},{
     "success": true,
     "timestamp": 1535846399,
     "historical": true,
@@ -11904,7 +11904,7 @@
         "BGN": 1.958458,
         "ARS": 42.815935
     }
-}{
+},{
     "success": true,
     "timestamp": 1535932799,
     "historical": true,
@@ -11953,7 +11953,7 @@
         "BGN": 1.954746,
         "ARS": 42.816709
     }
-}{
+},{
     "success": true,
     "timestamp": 1536019199,
     "historical": true,
@@ -12002,7 +12002,7 @@
         "BGN": 1.955992,
         "ARS": 44.226404
     }
-}{
+},{
     "success": true,
     "timestamp": 1536105599,
     "historical": true,
@@ -12051,7 +12051,7 @@
         "BGN": 1.956273,
         "ARS": 45.157187
     }
-}{
+},{
     "success": true,
     "timestamp": 1536191999,
     "historical": true,
@@ -12100,7 +12100,7 @@
         "BGN": 1.956054,
         "ARS": 44.92632
     }
-}{
+},{
     "success": true,
     "timestamp": 1536278399,
     "historical": true,
@@ -12149,7 +12149,7 @@
         "BGN": 1.955427,
         "ARS": 43.481717
     }
-}{
+},{
     "success": true,
     "timestamp": 1536364799,
     "historical": true,
@@ -12198,7 +12198,7 @@
         "BGN": 1.958832,
         "ARS": 42.854029
     }
-}{
+},{
     "success": true,
     "timestamp": 1536451199,
     "historical": true,
@@ -12247,7 +12247,7 @@
         "BGN": 1.958832,
         "ARS": 42.854029
     }
-}{
+},{
     "success": true,
     "timestamp": 1536537599,
     "historical": true,
@@ -12296,7 +12296,7 @@
         "BGN": 1.957009,
         "ARS": 42.851129
     }
-}{
+},{
     "success": true,
     "timestamp": 1536623999,
     "historical": true,
@@ -12345,7 +12345,7 @@
         "BGN": 1.95593,
         "ARS": 43.430568
     }
-}{
+},{
     "success": true,
     "timestamp": 1536710399,
     "historical": true,
@@ -12394,7 +12394,7 @@
         "BGN": 1.955742,
         "ARS": 44.00772
     }
-}{
+},{
     "success": true,
     "timestamp": 1536796799,
     "historical": true,
@@ -12443,7 +12443,7 @@
         "BGN": 1.955943,
         "ARS": 44.566504
     }
-}{
+},{
     "success": true,
     "timestamp": 1536883199,
     "historical": true,
@@ -12492,7 +12492,7 @@
         "BGN": 1.955852,
         "ARS": 46.152915
     }
-}{
+},{
     "success": true,
     "timestamp": 1536969599,
     "historical": true,
@@ -12541,7 +12541,7 @@
         "BGN": 1.957747,
         "ARS": 46.454401
     }
-}{
+},{
     "success": true,
     "timestamp": 1537055999,
     "historical": true,
@@ -12590,7 +12590,7 @@
         "BGN": 1.957747,
         "ARS": 46.454401
     }
-}{
+},{
     "success": true,
     "timestamp": 1537142399,
     "historical": true,
@@ -12639,7 +12639,7 @@
         "BGN": 1.956556,
         "ARS": 46.457119
     }
-}{
+},{
     "success": true,
     "timestamp": 1537228799,
     "historical": true,
@@ -12688,7 +12688,7 @@
         "BGN": 1.955929,
         "ARS": 46.128002
     }
-}{
+},{
     "success": true,
     "timestamp": 1537315199,
     "historical": true,
@@ -12737,7 +12737,7 @@
         "BGN": 1.955978,
         "ARS": 46.436831
     }
-}{
+},{
     "success": true,
     "timestamp": 1537401599,
     "historical": true,
@@ -12786,7 +12786,7 @@
         "BGN": 1.955787,
         "ARS": 45.886886
     }
-}{
+},{
     "success": true,
     "timestamp": 1537487999,
     "historical": true,
@@ -12835,7 +12835,7 @@
         "BGN": 1.955865,
         "ARS": 44.99155
     }
-}{
+},{
     "success": true,
     "timestamp": 1537574399,
     "historical": true,
@@ -12884,7 +12884,7 @@
         "BGN": 1.958565,
         "ARS": 43.755455
     }
-}{
+},{
     "success": true,
     "timestamp": 1537660799,
     "historical": true,
@@ -12933,7 +12933,7 @@
         "BGN": 1.955677,
         "ARS": 43.755455
     }
-}{
+},{
     "success": true,
     "timestamp": 1537747199,
     "historical": true,
@@ -12982,7 +12982,7 @@
         "BGN": 1.952367,
         "ARS": 43.751861
     }
-}{
+},{
     "success": true,
     "timestamp": 1537833599,
     "historical": true,
@@ -13031,7 +13031,7 @@
         "BGN": 1.955846,
         "ARS": 43.829068
     }
-}{
+},{
     "success": true,
     "timestamp": 1537919999,
     "historical": true,
@@ -13080,7 +13080,7 @@
         "BGN": 1.955631,
         "ARS": 45.032256
     }
-}{
+},{
     "success": true,
     "timestamp": 1538006399,
     "historical": true,
@@ -13129,7 +13129,7 @@
         "BGN": 1.955472,
         "ARS": 45.260062
     }
-}{
+},{
     "success": true,
     "timestamp": 1538092799,
     "historical": true,
@@ -13178,7 +13178,7 @@
         "BGN": 1.956298,
         "ARS": 46.363721
     }
-}{
+},{
     "success": true,
     "timestamp": 1538179199,
     "historical": true,
@@ -13227,7 +13227,7 @@
         "BGN": 1.958807,
         "ARS": 47.910795
     }
-}{
+},{
     "success": true,
     "timestamp": 1538265599,
     "historical": true,
@@ -13276,7 +13276,7 @@
         "BGN": 1.958807,
         "ARS": 47.910795
     }
-}{
+},{
     "success": true,
     "timestamp": 1538351999,
     "historical": true,
@@ -13325,7 +13325,7 @@
         "BGN": 1.956002,
         "ARS": 47.908511
     }
-}{
+},{
     "success": true,
     "timestamp": 1538438399,
     "historical": true,
@@ -13374,7 +13374,7 @@
         "BGN": 1.955731,
         "ARS": 45.694756
     }
-}{
+},{
     "success": true,
     "timestamp": 1538524799,
     "historical": true,
@@ -13423,7 +13423,7 @@
         "BGN": 1.955667,
         "ARS": 43.982024
     }
-}{
+},{
     "success": true,
     "timestamp": 1538611199,
     "historical": true,
@@ -13472,7 +13472,7 @@
         "BGN": 1.955604,
         "ARS": 43.323843
     }
-}{
+},{
     "success": true,
     "timestamp": 1538697599,
     "historical": true,
@@ -13521,7 +13521,7 @@
         "BGN": 1.956511,
         "ARS": 44.461669
     }
-}{
+},{
     "success": true,
     "timestamp": 1538783999,
     "historical": true,
@@ -13570,7 +13570,7 @@
         "BGN": 1.9581,
         "ARS": 43.593503
     }
-}{
+},{
     "success": true,
     "timestamp": 1538870399,
     "historical": true,
@@ -13619,7 +13619,7 @@
         "BGN": 1.9581,
         "ARS": 43.593503
     }
-}{
+},{
     "success": true,
     "timestamp": 1538956799,
     "historical": true,
@@ -13668,7 +13668,7 @@
         "BGN": 1.956021,
         "ARS": 43.592189
     }
-}{
+},{
     "success": true,
     "timestamp": 1539043199,
     "historical": true,
@@ -13717,7 +13717,7 @@
         "BGN": 1.955892,
         "ARS": 43.092553
     }
-}{
+},{
     "success": true,
     "timestamp": 1539129599,
     "historical": true,
@@ -13766,7 +13766,7 @@
         "BGN": 1.955589,
         "ARS": 42.97519
     }
-}{
+},{
     "success": true,
     "timestamp": 1539215999,
     "historical": true,
@@ -13815,7 +13815,7 @@
         "BGN": 1.956108,
         "ARS": 42.879533
     }
-}{
+},{
     "success": true,
     "timestamp": 1539302399,
     "historical": true,
@@ -13864,7 +13864,7 @@
         "BGN": 1.955714,
         "ARS": 42.420917
     }
-}{
+},{
     "success": true,
     "timestamp": 1539388799,
     "historical": true,
@@ -13913,7 +13913,7 @@
         "BGN": 1.95846,
         "ARS": 42.41724
     }
-}{
+},{
     "success": true,
     "timestamp": 1539475199,
     "historical": true,
@@ -13962,7 +13962,7 @@
         "BGN": 1.95846,
         "ARS": 42.41724
     }
-}{
+},{
     "success": true,
     "timestamp": 1539561599,
     "historical": true,
@@ -14011,7 +14011,7 @@
         "BGN": 1.95431,
         "ARS": 42.413
     }
-}{
+},{
     "success": true,
     "timestamp": 1539647999,
     "historical": true,
@@ -14060,7 +14060,7 @@
         "BGN": 1.955578,
         "ARS": 42.498175
     }
-}{
+},{
     "success": true,
     "timestamp": 1539734399,
     "historical": true,
@@ -14109,7 +14109,7 @@
         "BGN": 1.95605,
         "ARS": 41.571437
     }
-}{
+},{
     "success": true,
     "timestamp": 1539820799,
     "historical": true,
@@ -14158,7 +14158,7 @@
         "BGN": 1.956018,
         "ARS": 41.634797
     }
-}{
+},{
     "success": true,
     "timestamp": 1539907199,
     "historical": true,
@@ -14207,7 +14207,7 @@
         "BGN": 1.956445,
         "ARS": 42.088462
     }
-}{
+},{
     "success": true,
     "timestamp": 1539993599,
     "historical": true,
@@ -14256,7 +14256,7 @@
         "BGN": 1.958345,
         "ARS": 42.075999
     }
-}{
+},{
     "success": true,
     "timestamp": 1540079999,
     "historical": true,
@@ -14305,7 +14305,7 @@
         "BGN": 1.958345,
         "ARS": 42.075999
     }
-}{
+},{
     "success": true,
     "timestamp": 1540166399,
     "historical": true,
@@ -14354,7 +14354,7 @@
         "BGN": 1.954699,
         "ARS": 42.077056
     }
-}{
+},{
     "success": true,
     "timestamp": 1540252799,
     "historical": true,
@@ -14403,7 +14403,7 @@
         "BGN": 1.955921,
         "ARS": 41.790922
     }
-}{
+},{
     "success": true,
     "timestamp": 1540339199,
     "historical": true,
@@ -14452,7 +14452,7 @@
         "BGN": 1.955536,
         "ARS": 41.974283
     }
-}{
+},{
     "success": true,
     "timestamp": 1540425599,
     "historical": true,
@@ -14501,7 +14501,7 @@
         "BGN": 1.956288,
         "ARS": 42.199158
     }
-}{
+},{
     "success": true,
     "timestamp": 1540511999,
     "historical": true,
@@ -14550,7 +14550,7 @@
         "BGN": 1.955748,
         "ARS": 41.833712
     }
-}{
+},{
     "success": true,
     "timestamp": 1540598399,
     "historical": true,
@@ -14599,7 +14599,7 @@
         "BGN": 1.959756,
         "ARS": 42.006639
     }
-}{
+},{
     "success": true,
     "timestamp": 1540684799,
     "historical": true,
@@ -14648,7 +14648,7 @@
         "BGN": 1.959756,
         "ARS": 42.006639
     }
-}{
+},{
     "success": true,
     "timestamp": 1540771199,
     "historical": true,
@@ -14697,7 +14697,7 @@
         "BGN": 1.955276,
         "ARS": 41.739615
     }
-}{
+},{
     "success": true,
     "timestamp": 1540857599,
     "historical": true,
@@ -14746,7 +14746,7 @@
         "BGN": 1.956079,
         "ARS": 41.958682
     }
-}{
+},{
     "success": true,
     "timestamp": 1540943999,
     "historical": true,
@@ -14795,7 +14795,7 @@
         "BGN": 1.955433,
         "ARS": 41.673878
     }
-}{
+},{
     "success": true,
     "timestamp": 1541030399,
     "historical": true,
@@ -14844,7 +14844,7 @@
         "BGN": 1.955921,
         "ARS": 40.624682
     }
-}{
+},{
     "success": true,
     "timestamp": 1541116799,
     "historical": true,
@@ -14893,7 +14893,7 @@
         "BGN": 1.955837,
         "ARS": 40.672072
     }
-}{
+},{
     "success": true,
     "timestamp": 1541203199,
     "historical": true,
@@ -14942,7 +14942,7 @@
         "BGN": 1.956102,
         "ARS": 40.407757
     }
-}{
+},{
     "success": true,
     "timestamp": 1541289599,
     "historical": true,
@@ -14991,7 +14991,7 @@
         "BGN": 1.956102,
         "ARS": 40.407757
     }
-}{
+},{
     "success": true,
     "timestamp": 1541375999,
     "historical": true,
@@ -15040,7 +15040,7 @@
         "BGN": 1.95759,
         "ARS": 40.399784
     }
-}{
+},{
     "success": true,
     "timestamp": 1541462399,
     "historical": true,
@@ -15089,7 +15089,7 @@
         "BGN": 1.955944,
         "ARS": 40.652448
     }
-}{
+},{
     "success": true,
     "timestamp": 1541548799,
     "historical": true,
@@ -15138,7 +15138,7 @@
         "BGN": 1.956008,
         "ARS": 40.733517
     }
-}{
+},{
     "success": true,
     "timestamp": 1541635199,
     "historical": true,
@@ -15187,7 +15187,7 @@
         "BGN": 1.955911,
         "ARS": 40.769831
     }
-}{
+},{
     "success": true,
     "timestamp": 1541721599,
     "historical": true,
@@ -15236,7 +15236,7 @@
         "BGN": 1.956334,
         "ARS": 40.317512
     }
-}{
+},{
     "success": true,
     "timestamp": 1541807999,
     "historical": true,
@@ -15285,7 +15285,7 @@
         "BGN": 1.956173,
         "ARS": 40.106373
     }
-}{
+},{
     "success": true,
     "timestamp": 1541894399,
     "historical": true,
@@ -15334,7 +15334,7 @@
         "BGN": 1.956173,
         "ARS": 40.106373
     }
-}{
+},{
     "success": true,
     "timestamp": 1541980799,
     "historical": true,
@@ -15383,7 +15383,7 @@
         "BGN": 1.953755,
         "ARS": 40.104397
     }
-}{
+},{
     "success": true,
     "timestamp": 1542067199,
     "historical": true,
@@ -15432,7 +15432,7 @@
         "BGN": 1.95676,
         "ARS": 39.919049
     }
-}{
+},{
     "success": true,
     "timestamp": 1542153599,
     "historical": true,
@@ -15481,7 +15481,7 @@
         "BGN": 1.955398,
         "ARS": 40.734482
     }
-}{
+},{
     "success": true,
     "timestamp": 1542239999,
     "historical": true,
@@ -15530,7 +15530,7 @@
         "BGN": 1.954565,
         "ARS": 40.601577
     }
-}{
+},{
     "success": true,
     "timestamp": 1542326399,
     "historical": true,
@@ -15579,7 +15579,7 @@
         "BGN": 1.955633,
         "ARS": 40.818127
     }
-}{
+},{
     "success": true,
     "timestamp": 1542412799,
     "historical": true,
@@ -15628,7 +15628,7 @@
         "BGN": 1.956001,
         "ARS": 41.023055
     }
-}{
+},{
     "success": true,
     "timestamp": 1542499199,
     "historical": true,
@@ -15677,7 +15677,7 @@
         "BGN": 1.956001,
         "ARS": 40.836488
     }
-}{
+},{
     "success": true,
     "timestamp": 1542585599,
     "historical": true,
@@ -15726,7 +15726,7 @@
         "BGN": 1.954809,
         "ARS": 40.837916
     }
-}{
+},{
     "success": true,
     "timestamp": 1542671999,
     "historical": true,
@@ -15775,7 +15775,7 @@
         "BGN": 1.955407,
         "ARS": 41.128163
     }
-}{
+},{
     "success": true,
     "timestamp": 1542758399,
     "historical": true,
@@ -15824,7 +15824,7 @@
         "BGN": 1.956099,
         "ARS": 41.143944
     }
-}{
+},{
     "success": true,
     "timestamp": 1542844799,
     "historical": true,
@@ -15873,7 +15873,7 @@
         "BGN": 1.956011,
         "ARS": 41.298698
     }
-}{
+},{
     "success": true,
     "timestamp": 1542931199,
     "historical": true,
@@ -15922,7 +15922,7 @@
         "BGN": 1.955904,
         "ARS": 41.543461
     }
-}{
+},{
     "success": true,
     "timestamp": 1543017599,
     "historical": true,
@@ -15971,7 +15971,7 @@
         "BGN": 1.957379,
         "ARS": 42.606986
     }
-}{
+},{
     "success": true,
     "timestamp": 1543103999,
     "historical": true,
@@ -16020,7 +16020,7 @@
         "BGN": 1.956131,
         "ARS": 42.606986
     }
-}{
+},{
     "success": true,
     "timestamp": 1543190399,
     "historical": true,
@@ -16069,7 +16069,7 @@
         "BGN": 1.955155,
         "ARS": 42.607253
     }
-}{
+},{
     "success": true,
     "timestamp": 1543276799,
     "historical": true,
@@ -16118,7 +16118,7 @@
         "BGN": 1.955801,
         "ARS": 44.287405
     }
-}{
+},{
     "success": true,
     "timestamp": 1543363199,
     "historical": true,
@@ -16167,7 +16167,7 @@
         "BGN": 1.956308,
         "ARS": 43.547189
     }
-}{
+},{
     "success": true,
     "timestamp": 1543449599,
     "historical": true,
@@ -16216,7 +16216,7 @@
         "BGN": 1.955428,
         "ARS": 43.711487
     }
-}{
+},{
     "success": true,
     "timestamp": 1543535999,
     "historical": true,
@@ -16265,7 +16265,7 @@
         "BGN": 1.955786,
         "ARS": 42.983709
     }
-}{
+},{
     "success": true,
     "timestamp": 1543622399,
     "historical": true,
@@ -16314,7 +16314,7 @@
         "BGN": 1.9559,
         "ARS": 42.704484
     }
-}{
+},{
     "success": true,
     "timestamp": 1543708799,
     "historical": true,
@@ -16363,7 +16363,7 @@
         "BGN": 1.956127,
         "ARS": 42.909855
     }
-}{
+},{
     "success": true,
     "timestamp": 1543795199,
     "historical": true,
@@ -16412,7 +16412,7 @@
         "BGN": 1.960324,
         "ARS": 42.911323
     }
-}{
+},{
     "success": true,
     "timestamp": 1543881599,
     "historical": true,
@@ -16461,7 +16461,7 @@
         "BGN": 1.955684,
         "ARS": 41.486792
     }
-}{
+},{
     "success": true,
     "timestamp": 1543967999,
     "historical": true,
@@ -16510,7 +16510,7 @@
         "BGN": 1.955573,
         "ARS": 42.395108
     }
-}{
+},{
     "success": true,
     "timestamp": 1544054399,
     "historical": true,
@@ -16559,7 +16559,7 @@
         "BGN": 1.956379,
         "ARS": 42.556496
     }
-}{
+},{
     "success": true,
     "timestamp": 1544140799,
     "historical": true,
@@ -16608,7 +16608,7 @@
         "BGN": 1.955945,
         "ARS": 42.881028
     }
-}{
+},{
     "success": true,
     "timestamp": 1544227199,
     "historical": true,
@@ -16657,7 +16657,7 @@
         "BGN": 1.951807,
         "ARS": 42.576125
     }
-}{
+},{
     "success": true,
     "timestamp": 1544313599,
     "historical": true,
@@ -16706,7 +16706,7 @@
         "BGN": 1.951807,
         "ARS": 42.576125
     }
-}{
+},{
     "success": true,
     "timestamp": 1544399999,
     "historical": true,
@@ -16755,7 +16755,7 @@
         "BGN": 1.954889,
         "ARS": 42.575489
     }
-}{
+},{
     "success": true,
     "timestamp": 1544486399,
     "historical": true,
@@ -16804,7 +16804,7 @@
         "BGN": 1.955631,
         "ARS": 42.767232
     }
-}{
+},{
     "success": true,
     "timestamp": 1544572799,
     "historical": true,
@@ -16853,7 +16853,7 @@
         "BGN": 1.955874,
         "ARS": 42.800787
     }
-}{
+},{
     "success": true,
     "timestamp": 1544659199,
     "historical": true,
@@ -16902,7 +16902,7 @@
         "BGN": 1.956237,
         "ARS": 42.734897
     }
-}{
+},{
     "success": true,
     "timestamp": 1544745599,
     "historical": true,
@@ -16951,7 +16951,7 @@
         "BGN": 1.956399,
         "ARS": 42.959624
     }
-}{
+},{
     "success": true,
     "timestamp": 1544831999,
     "historical": true,
@@ -17000,7 +17000,7 @@
         "BGN": 1.957334,
         "ARS": 43.136614
     }
-}{
+},{
     "success": true,
     "timestamp": 1544918399,
     "historical": true,
@@ -17049,7 +17049,7 @@
         "BGN": 1.957334,
         "ARS": 43.136614
     }
-}{
+},{
     "success": true,
     "timestamp": 1545004799,
     "historical": true,
@@ -17098,7 +17098,7 @@
         "BGN": 1.956631,
         "ARS": 43.135873
     }
-}{
+},{
     "success": true,
     "timestamp": 1545091199,
     "historical": true,
@@ -17147,7 +17147,7 @@
         "BGN": 1.955862,
         "ARS": 43.420949
     }
-}{
+},{
     "success": true,
     "timestamp": 1545177599,
     "historical": true,
@@ -17196,7 +17196,7 @@
         "BGN": 1.955931,
         "ARS": 43.519653
     }
-}{
+},{
     "success": true,
     "timestamp": 1545263999,
     "historical": true,
@@ -17245,7 +17245,7 @@
         "BGN": 1.955592,
         "ARS": 43.684774
     }
-}{
+},{
     "success": true,
     "timestamp": 1545350399,
     "historical": true,
@@ -17294,7 +17294,7 @@
         "BGN": 1.95583,
         "ARS": 43.561103
     }
-}{
+},{
     "success": true,
     "timestamp": 1545436799,
     "historical": true,
@@ -17343,7 +17343,7 @@
         "BGN": 1.959901,
         "ARS": 43.182189
     }
-}{
+},{
     "success": true,
     "timestamp": 1545523199,
     "historical": true,
@@ -17392,7 +17392,7 @@
         "BGN": 1.959901,
         "ARS": 43.182189
     }
-}{
+},{
     "success": true,
     "timestamp": 1545609599,
     "historical": true,
@@ -17441,7 +17441,7 @@
         "BGN": 1.958,
         "ARS": 43.182502
     }
-}{
+},{
     "success": true,
     "timestamp": 1545695999,
     "historical": true,
@@ -17490,7 +17490,7 @@
         "BGN": 1.956889,
         "ARS": 43.28539
     }
-}{
+},{
     "success": true,
     "timestamp": 1545782399,
     "historical": true,
@@ -17539,7 +17539,7 @@
         "BGN": 1.958344,
         "ARS": 43.269314
     }
-}{
+},{
     "success": true,
     "timestamp": 1545868799,
     "historical": true,
@@ -17588,7 +17588,7 @@
         "BGN": 1.949034,
         "ARS": 43.279124
     }
-}{
+},{
     "success": true,
     "timestamp": 1545955199,
     "historical": true,
@@ -17637,7 +17637,7 @@
         "BGN": 1.955435,
         "ARS": 43.794611
     }
-}{
+},{
     "success": true,
     "timestamp": 1546041599,
     "historical": true,
@@ -17686,7 +17686,7 @@
         "BGN": 1.955292,
         "ARS": 43.124114
     }
-}{
+},{
     "success": true,
     "timestamp": 1546127999,
     "historical": true,
@@ -17735,7 +17735,7 @@
         "BGN": 1.955292,
         "ARS": 43.124114
     }
-}{
+},{
     "success": true,
     "timestamp": 1546214399,
     "historical": true,
@@ -17784,7 +17784,7 @@
         "BGN": 1.955487,
         "ARS": 43.121572
     }
-}{
+},{
     "success": true,
     "timestamp": 1546300799,
     "historical": true,
@@ -17833,7 +17833,7 @@
         "BGN": 1.961147,
         "ARS": 43.172563
     }
-}{
+},{
     "success": true,
     "timestamp": 1546387199,
     "historical": true,
@@ -17882,7 +17882,7 @@
         "BGN": 1.941196,
         "ARS": 43.156775
     }
-}{
+},{
     "success": true,
     "timestamp": 1546473599,
     "historical": true,
@@ -17931,7 +17931,7 @@
         "BGN": 1.955779,
         "ARS": 42.744063
     }
-}{
+},{
     "success": true,
     "timestamp": 1546559999,
     "historical": true,
@@ -17980,7 +17980,7 @@
         "BGN": 1.955076,
         "ARS": 42.657142
     }
-}{
+},{
     "success": true,
     "timestamp": 1546646399,
     "historical": true,
@@ -18029,7 +18029,7 @@
         "BGN": 1.955824,
         "ARS": 42.570429
     }
-}{
+},{
     "success": true,
     "timestamp": 1546732799,
     "historical": true,
@@ -18078,7 +18078,7 @@
         "BGN": 1.955824,
         "ARS": 42.570429
     }
-}{
+},{
     "success": true,
     "timestamp": 1546819199,
     "historical": true,
@@ -18127,7 +18127,7 @@
         "BGN": 1.958318,
         "ARS": 42.569983
     }
-}{
+},{
     "success": true,
     "timestamp": 1546905599,
     "historical": true,
@@ -18176,7 +18176,7 @@
         "BGN": 1.955861,
         "ARS": 42.821571
     }
-}{
+},{
     "success": true,
     "timestamp": 1546991999,
     "historical": true,
@@ -18225,7 +18225,7 @@
         "BGN": 1.956468,
         "ARS": 43.005972
     }
-}{
+},{
     "success": true,
     "timestamp": 1547078399,
     "historical": true,
@@ -18274,7 +18274,7 @@
         "BGN": 1.956405,
         "ARS": 43.168662
     }
-}{
+},{
     "success": true,
     "timestamp": 1547164799,
     "historical": true,
@@ -18323,7 +18323,7 @@
         "BGN": 1.950643,
         "ARS": 42.989786
     }
-}{
+},{
     "success": true,
     "timestamp": 1547251199,
     "historical": true,
@@ -18372,7 +18372,7 @@
         "BGN": 1.957166,
         "ARS": 42.327216
     }
-}{
+},{
     "success": true,
     "timestamp": 1547337599,
     "historical": true,
@@ -18421,7 +18421,7 @@
         "BGN": 1.957166,
         "ARS": 42.327216
     }
-}{
+},{
     "success": true,
     "timestamp": 1547423999,
     "historical": true,
@@ -18470,7 +18470,7 @@
         "BGN": 1.955496,
         "ARS": 42.325686
     }
-}{
+},{
     "success": true,
     "timestamp": 1547510399,
     "historical": true,
@@ -18519,7 +18519,7 @@
         "BGN": 1.955957,
         "ARS": 42.426656
     }
-}{
+},{
     "success": true,
     "timestamp": 1547596799,
     "historical": true,
@@ -18568,7 +18568,7 @@
         "BGN": 1.956459,
         "ARS": 42.371977
     }
-}{
+},{
     "success": true,
     "timestamp": 1547683199,
     "historical": true,
@@ -18617,7 +18617,7 @@
         "BGN": 1.955842,
         "ARS": 42.715131
     }
-}{
+},{
     "success": true,
     "timestamp": 1547769599,
     "historical": true,
@@ -18666,7 +18666,7 @@
         "BGN": 1.956253,
         "ARS": 42.932285
     }
-}{
+},{
     "success": true,
     "timestamp": 1547855999,
     "historical": true,
@@ -18715,7 +18715,7 @@
         "BGN": 1.957438,
         "ARS": 42.730426
     }
-}{
+},{
     "success": true,
     "timestamp": 1547942399,
     "historical": true,
@@ -18764,7 +18764,7 @@
         "BGN": 1.957438,
         "ARS": 42.730426
     }
-}{
+},{
     "success": true,
     "timestamp": 1548028799,
     "historical": true,
@@ -18813,7 +18813,7 @@
         "BGN": 1.956175,
         "ARS": 42.730843
     }
-}{
+},{
     "success": true,
     "timestamp": 1548115199,
     "historical": true,
@@ -18862,7 +18862,7 @@
         "BGN": 1.955904,
         "ARS": 42.98593
     }
-}{
+},{
     "success": true,
     "timestamp": 1548201599,
     "historical": true,
@@ -18911,7 +18911,7 @@
         "BGN": 1.955784,
         "ARS": 42.622469
     }
-}{
+},{
     "success": true,
     "timestamp": 1548287999,
     "historical": true,
@@ -18960,7 +18960,7 @@
         "BGN": 1.955934,
         "ARS": 42.722301
     }
-}{
+},{
     "success": true,
     "timestamp": 1548374399,
     "historical": true,
@@ -19009,7 +19009,7 @@
         "BGN": 1.956342,
         "ARS": 42.281475
     }
-}{
+},{
     "success": true,
     "timestamp": 1548460799,
     "historical": true,
@@ -19058,7 +19058,7 @@
         "BGN": 1.955075,
         "ARS": 42.279918
     }
-}{
+},{
     "success": true,
     "timestamp": 1548547199,
     "historical": true,
@@ -19107,7 +19107,7 @@
         "BGN": 1.957294,
         "ARS": 42.413304
     }
-}{
+},{
     "success": true,
     "timestamp": 1548633599,
     "historical": true,
@@ -19156,7 +19156,7 @@
         "BGN": 1.959393,
         "ARS": 42.414265
     }
-}{
+},{
     "success": true,
     "timestamp": 1548719999,
     "historical": true,
@@ -19205,7 +19205,7 @@
         "BGN": 1.955991,
         "ARS": 42.422542
     }
-}{
+},{
     "success": true,
     "timestamp": 1548806399,
     "historical": true,
@@ -19254,7 +19254,7 @@
         "BGN": 1.955714,
         "ARS": 43.029155
     }
-}{
+},{
     "success": true,
     "timestamp": 1548892799,
     "historical": true,
@@ -19303,7 +19303,7 @@
         "BGN": 1.955836,
         "ARS": 43.056045
     }
-}{
+},{
     "success": true,
     "timestamp": 1548979199,
     "historical": true,
@@ -19352,7 +19352,7 @@
         "BGN": 1.956032,
         "ARS": 42.688574
     }
-}{
+},{
     "success": true,
     "timestamp": 1549065599,
     "historical": true,
@@ -19401,7 +19401,7 @@
         "BGN": 1.95676,
         "ARS": 42.567274
     }
-}{
+},{
     "success": true,
     "timestamp": 1549151999,
     "historical": true,
@@ -19450,7 +19450,7 @@
         "BGN": 1.95676,
         "ARS": 42.567274
     }
-}{
+},{
     "success": true,
     "timestamp": 1549238399,
     "historical": true,
@@ -19499,7 +19499,7 @@
         "BGN": 1.956312,
         "ARS": 42.567266
     }
-}{
+},{
     "success": true,
     "timestamp": 1549324799,
     "historical": true,
@@ -19548,7 +19548,7 @@
         "BGN": 1.955812,
         "ARS": 42.484233
     }
-}{
+},{
     "success": true,
     "timestamp": 1549411199,
     "historical": true,
@@ -19597,7 +19597,7 @@
         "BGN": 1.956096,
         "ARS": 42.453146
     }
-}{
+},{
     "success": true,
     "timestamp": 1549497599,
     "historical": true,
@@ -19646,7 +19646,7 @@
         "BGN": 1.95591,
         "ARS": 42.645009
     }
-}{
+},{
     "success": true,
     "timestamp": 1549583999,
     "historical": true,
@@ -19695,7 +19695,7 @@
         "BGN": 1.955527,
         "ARS": 42.880633
     }
-}{
+},{
     "success": true,
     "timestamp": 1549670399,
     "historical": true,
@@ -19744,7 +19744,7 @@
         "BGN": 1.957531,
         "ARS": 42.850469
     }
-}{
+},{
     "success": true,
     "timestamp": 1549756799,
     "historical": true,
@@ -19793,7 +19793,7 @@
         "BGN": 1.956109,
         "ARS": 42.850469
     }
-}{
+},{
     "success": true,
     "timestamp": 1549843199,
     "historical": true,
@@ -19842,7 +19842,7 @@
         "BGN": 1.954104,
         "ARS": 42.850656
     }
-}{
+},{
     "success": true,
     "timestamp": 1549929599,
     "historical": true,
@@ -19891,7 +19891,7 @@
         "BGN": 1.955829,
         "ARS": 42.786734
     }
-}{
+},{
     "success": true,
     "timestamp": 1550015999,
     "historical": true,
@@ -19940,7 +19940,7 @@
         "BGN": 1.955434,
         "ARS": 43.025757
     }
-}{
+},{
     "success": true,
     "timestamp": 1550102399,
     "historical": true,
@@ -19989,7 +19989,7 @@
         "BGN": 1.956431,
         "ARS": 43.000183
     }
-}{
+},{
     "success": true,
     "timestamp": 1550188799,
     "historical": true,
@@ -20038,7 +20038,7 @@
         "BGN": 1.955725,
         "ARS": 43.136612
     }
-}{
+},{
     "success": true,
     "timestamp": 1550275199,
     "historical": true,
@@ -20087,7 +20087,7 @@
         "BGN": 1.95667,
         "ARS": 43.606772
     }
-}{
+},{
     "success": true,
     "timestamp": 1550361599,
     "historical": true,
@@ -20136,7 +20136,7 @@
         "BGN": 1.95667,
         "ARS": 43.606772
     }
-}{
+},{
     "success": true,
     "timestamp": 1550447999,
     "historical": true,
@@ -20185,7 +20185,7 @@
         "BGN": 1.956665,
         "ARS": 43.610167
     }
-}{
+},{
     "success": true,
     "timestamp": 1550534399,
     "historical": true,
@@ -20234,7 +20234,7 @@
         "BGN": 1.955952,
         "ARS": 43.79977
     }
-}{
+},{
     "success": true,
     "timestamp": 1550620799,
     "historical": true,
@@ -20283,7 +20283,7 @@
         "BGN": 1.956351,
         "ARS": 44.537488
     }
-}{
+},{
     "success": true,
     "timestamp": 1550707199,
     "historical": true,
@@ -20332,7 +20332,7 @@
         "BGN": 1.955919,
         "ARS": 45.00701
     }
-}{
+},{
     "success": true,
     "timestamp": 1550793599,
     "historical": true,
@@ -20381,7 +20381,7 @@
         "BGN": 1.95627,
         "ARS": 44.820325
     }
-}{
+},{
     "success": true,
     "timestamp": 1550879999,
     "historical": true,
@@ -20430,7 +20430,7 @@
         "BGN": 1.95744,
         "ARS": 44.445247
     }
-}{
+},{
     "success": true,
     "timestamp": 1550966399,
     "historical": true,
@@ -20479,7 +20479,7 @@
         "BGN": 1.956018,
         "ARS": 44.445247
     }
-}{
+},{
     "success": true,
     "timestamp": 1551052799,
     "historical": true,
@@ -20528,7 +20528,7 @@
         "BGN": 1.956061,
         "ARS": 44.82106
     }
-}{
+},{
     "success": true,
     "timestamp": 1551139199,
     "historical": true,
@@ -20577,7 +20577,7 @@
         "BGN": 1.956933,
         "ARS": 44.348305
     }
-}{
+},{
     "success": true,
     "timestamp": 1551225599,
     "historical": true,
@@ -20626,7 +20626,7 @@
         "BGN": 1.955636,
         "ARS": 44.294171
     }
-}{
+},{
     "success": true,
     "timestamp": 1551311999,
     "historical": true,
@@ -20675,7 +20675,7 @@
         "BGN": 1.955965,
         "ARS": 44.112935
     }
-}{
+},{
     "success": true,
     "timestamp": 1551398399,
     "historical": true,
@@ -20724,7 +20724,7 @@
         "BGN": 1.956458,
         "ARS": 44.49796
     }
-}{
+},{
     "success": true,
     "timestamp": 1551484799,
     "historical": true,
@@ -20773,7 +20773,7 @@
         "BGN": 1.958534,
         "ARS": 45.31108
     }
-}{
+},{
     "success": true,
     "timestamp": 1551571199,
     "historical": true,
@@ -20822,7 +20822,7 @@
         "BGN": 1.958534,
         "ARS": 45.31108
     }
-}{
+},{
     "success": true,
     "timestamp": 1551657599,
     "historical": true,
@@ -20871,7 +20871,7 @@
         "BGN": 1.95819,
         "ARS": 45.303313
     }
-}{
+},{
     "success": true,
     "timestamp": 1551743999,
     "historical": true,
@@ -20920,7 +20920,7 @@
         "BGN": 1.955809,
         "ARS": 45.151434
     }
-}{
+},{
     "success": true,
     "timestamp": 1551830399,
     "historical": true,
@@ -20969,7 +20969,7 @@
         "BGN": 1.955329,
         "ARS": 45.037748
     }
-}{
+},{
     "success": true,
     "timestamp": 1551916799,
     "historical": true,
@@ -21018,7 +21018,7 @@
         "BGN": 1.95604,
         "ARS": 46.068123
     }
-}{
+},{
     "success": true,
     "timestamp": 1552003199,
     "historical": true,
@@ -21067,7 +21067,7 @@
         "BGN": 1.956003,
         "ARS": 47.517366
     }
-}{
+},{
     "success": true,
     "timestamp": 1552089599,
     "historical": true,
@@ -21116,7 +21116,7 @@
         "BGN": 1.956964,
         "ARS": 46.295894
     }
-}{
+},{
     "success": true,
     "timestamp": 1552175999,
     "historical": true,
@@ -21165,7 +21165,7 @@
         "BGN": 1.956964,
         "ARS": 46.295894
     }
-}{
+},{
     "success": true,
     "timestamp": 1552262399,
     "historical": true,
@@ -21214,7 +21214,7 @@
         "BGN": 1.954487,
         "ARS": 46.296262
     }
-}{
+},{
     "success": true,
     "timestamp": 1552348799,
     "historical": true,
@@ -21263,7 +21263,7 @@
         "BGN": 1.956344,
         "ARS": 46.447273
     }
-}{
+},{
     "success": true,
     "timestamp": 1552435199,
     "historical": true,
@@ -21312,7 +21312,7 @@
         "BGN": 1.955943,
         "ARS": 46.831399
     }
-}{
+},{
     "success": true,
     "timestamp": 1552521599,
     "historical": true,
@@ -21361,7 +21361,7 @@
         "BGN": 1.955798,
         "ARS": 46.737032
     }
-}{
+},{
     "success": true,
     "timestamp": 1552607999,
     "historical": true,
@@ -21410,7 +21410,7 @@
         "BGN": 1.955955,
         "ARS": 46.072415
     }
-}{
+},{
     "success": true,
     "timestamp": 1552694399,
     "historical": true,
@@ -21459,7 +21459,7 @@
         "BGN": 1.958518,
         "ARS": 45.302009
     }
-}{
+},{
     "success": true,
     "timestamp": 1552780799,
     "historical": true,
@@ -21508,7 +21508,7 @@
         "BGN": 1.958518,
         "ARS": 45.302009
     }
-}{
+},{
     "success": true,
     "timestamp": 1552867199,
     "historical": true,
@@ -21557,7 +21557,7 @@
         "BGN": 1.954182,
         "ARS": 45.301326
     }
-}{
+},{
     "success": true,
     "timestamp": 1552953599,
     "historical": true,
@@ -21606,7 +21606,7 @@
         "BGN": 1.955776,
         "ARS": 45.386565
     }
-}{
+},{
     "success": true,
     "timestamp": 1553039999,
     "historical": true,
@@ -21655,7 +21655,7 @@
         "BGN": 1.956043,
         "ARS": 46.008544
     }
-}{
+},{
     "success": true,
     "timestamp": 1553126399,
     "historical": true,
@@ -21704,7 +21704,7 @@
         "BGN": 1.955707,
         "ARS": 46.687174
     }
-}{
+},{
     "success": true,
     "timestamp": 1553212799,
     "historical": true,
@@ -21753,7 +21753,7 @@
         "BGN": 1.955743,
         "ARS": 46.659587
     }
-}{
+},{
     "success": true,
     "timestamp": 1553299199,
     "historical": true,
@@ -21802,7 +21802,7 @@
         "BGN": 1.959693,
         "ARS": 47.269831
     }
-}{
+},{
     "success": true,
     "timestamp": 1553385599,
     "historical": true,
@@ -21851,7 +21851,7 @@
         "BGN": 1.958221,
         "ARS": 46.335891
     }
-}{
+},{
     "success": true,
     "timestamp": 1553471999,
     "historical": true,
@@ -21900,7 +21900,7 @@
         "BGN": 1.953903,
         "ARS": 46.336008
     }
-}{
+},{
     "success": true,
     "timestamp": 1553558399,
     "historical": true,
@@ -21949,7 +21949,7 @@
         "BGN": 1.955846,
         "ARS": 47.559397
     }
-}{
+},{
     "success": true,
     "timestamp": 1553644799,
     "historical": true,
@@ -21998,7 +21998,7 @@
         "BGN": 1.955539,
         "ARS": 48.05801
     }
-}{
+},{
     "success": true,
     "timestamp": 1553731199,
     "historical": true,
@@ -22047,7 +22047,7 @@
         "BGN": 1.955599,
         "ARS": 49.364255
     }
-}{
+},{
     "success": true,
     "timestamp": 1553817599,
     "historical": true,
@@ -22096,7 +22096,7 @@
         "BGN": 1.956079,
         "ARS": 48.985687
     }
-}{
+},{
     "success": true,
     "timestamp": 1553903999,
     "historical": true,
@@ -22145,7 +22145,7 @@
         "BGN": 1.958222,
         "ARS": 48.679756
     }
-}{
+},{
     "success": true,
     "timestamp": 1553990399,
     "historical": true,
@@ -22194,7 +22194,7 @@
         "BGN": 1.958222,
         "ARS": 48.679756
     }
-}{
+},{
     "success": true,
     "timestamp": 1554076799,
     "historical": true,
@@ -22243,7 +22243,7 @@
         "BGN": 1.956811,
         "ARS": 48.679609
     }
-}{
+},{
     "success": true,
     "timestamp": 1554163199,
     "historical": true,
@@ -22292,7 +22292,7 @@
         "BGN": 1.955883,
         "ARS": 47.862336
     }
-}{
+},{
     "success": true,
     "timestamp": 1554249599,
     "historical": true,
@@ -22341,7 +22341,7 @@
         "BGN": 1.9555,
         "ARS": 47.855342
     }
-}{
+},{
     "success": true,
     "timestamp": 1554335999,
     "historical": true,
@@ -22390,7 +22390,7 @@
         "BGN": 1.95604,
         "ARS": 48.181314
     }
-}{
+},{
     "success": true,
     "timestamp": 1554422399,
     "historical": true,
@@ -22439,7 +22439,7 @@
         "BGN": 1.955938,
         "ARS": 48.715931
     }
-}{
+},{
     "success": true,
     "timestamp": 1554508799,
     "historical": true,
@@ -22488,7 +22488,7 @@
         "BGN": 1.958623,
         "ARS": 49.30529
     }
-}{
+},{
     "success": true,
     "timestamp": 1554595199,
     "historical": true,
@@ -22537,7 +22537,7 @@
         "BGN": 1.958623,
         "ARS": 49.30529
     }
-}{
+},{
     "success": true,
     "timestamp": 1554681599,
     "historical": true,
@@ -22586,7 +22586,7 @@
         "BGN": 1.955924,
         "ARS": 49.294482
     }
-}{
+},{
     "success": true,
     "timestamp": 1554767999,
     "historical": true,
@@ -22635,7 +22635,7 @@
         "BGN": 1.953829,
         "ARS": 49.221652
     }
-}{
+},{
     "success": true,
     "timestamp": 1554854399,
     "historical": true,
@@ -22684,7 +22684,7 @@
         "BGN": 1.955682,
         "ARS": 48.889109
     }
-}{
+},{
     "success": true,
     "timestamp": 1554940799,
     "historical": true,
@@ -22733,7 +22733,7 @@
         "BGN": 1.955842,
         "ARS": 48.472636
     }
-}{
+},{
     "success": true,
     "timestamp": 1555027199,
     "historical": true,
@@ -22782,7 +22782,7 @@
         "BGN": 1.955707,
         "ARS": 48.098644
     }
-}{
+},{
     "success": true,
     "timestamp": 1555113599,
     "historical": true,
@@ -22831,7 +22831,7 @@
         "BGN": 1.959638,
         "ARS": 47.647263
     }
-}{
+},{
     "success": true,
     "timestamp": 1555199999,
     "historical": true,
@@ -22880,7 +22880,7 @@
         "BGN": 1.956129,
         "ARS": 47.647263
     }
-}{
+},{
     "success": true,
     "timestamp": 1555286399,
     "historical": true,
@@ -22929,7 +22929,7 @@
         "BGN": 1.953025,
         "ARS": 47.643243
     }
-}{
+},{
     "success": true,
     "timestamp": 1555372799,
     "historical": true,
@@ -22978,7 +22978,7 @@
         "BGN": 1.955898,
         "ARS": 47.048095
     }
-}{
+},{
     "success": true,
     "timestamp": 1555459199,
     "historical": true,
@@ -23027,7 +23027,7 @@
         "BGN": 1.955863,
         "ARS": 47.765794
     }
-}{
+},{
     "success": true,
     "timestamp": 1555545599,
     "historical": true,
@@ -23076,7 +23076,7 @@
         "BGN": 1.955554,
         "ARS": 47.02667
     }
-}{
+},{
     "success": true,
     "timestamp": 1555631999,
     "historical": true,
@@ -23125,7 +23125,7 @@
         "BGN": 1.956893,
         "ARS": 47.021766
     }
-}{
+},{
     "success": true,
     "timestamp": 1555718399,
     "historical": true,
@@ -23174,7 +23174,7 @@
         "BGN": 1.968706,
         "ARS": 46.850743
     }
-}{
+},{
     "success": true,
     "timestamp": 1555804799,
     "historical": true,
@@ -23223,7 +23223,7 @@
         "BGN": 1.968706,
         "ARS": 46.850743
     }
-}{
+},{
     "success": true,
     "timestamp": 1555891199,
     "historical": true,
@@ -23272,7 +23272,7 @@
         "BGN": 1.968282,
         "ARS": 46.850776
     }
-}{
+},{
     "success": true,
     "timestamp": 1555977599,
     "historical": true,
@@ -23321,7 +23321,7 @@
         "BGN": 1.958264,
         "ARS": 46.849258
     }
-}{
+},{
     "success": true,
     "timestamp": 1556063999,
     "historical": true,
@@ -23370,7 +23370,7 @@
         "BGN": 1.956114,
         "ARS": 47.58635
     }
-}{
+},{
     "success": true,
     "timestamp": 1556150399,
     "historical": true,
@@ -23419,7 +23419,7 @@
         "BGN": 1.955978,
         "ARS": 48.990031
     }
-}{
+},{
     "success": true,
     "timestamp": 1556236799,
     "historical": true,
@@ -23468,7 +23468,7 @@
         "BGN": 1.955891,
         "ARS": 50.173007
     }
-}{
+},{
     "success": true,
     "timestamp": 1556323199,
     "historical": true,
@@ -23517,7 +23517,7 @@
         "BGN": 1.957404,
         "ARS": 51.158789
     }
-}{
+},{
     "success": true,
     "timestamp": 1556409599,
     "historical": true,
@@ -23566,7 +23566,7 @@
         "BGN": 1.955893,
         "ARS": 50.17194
     }
-}{
+},{
     "success": true,
     "timestamp": 1556495999,
     "historical": true,
@@ -23615,7 +23615,7 @@
         "BGN": 1.953517,
         "ARS": 50.171722
     }
-}{
+},{
     "success": true,
     "timestamp": 1556582399,
     "historical": true,
@@ -23664,7 +23664,7 @@
         "BGN": 1.956017,
         "ARS": 49.593705
     }
-}{
+},{
     "success": true,
     "timestamp": 1556668799,
     "historical": true,
@@ -23713,7 +23713,7 @@
         "BGN": 1.956381,
         "ARS": 49.746779
     }
-}{
+},{
     "success": true,
     "timestamp": 1556755199,
     "historical": true,
@@ -23762,7 +23762,7 @@
         "BGN": 1.954638,
         "ARS": 49.715793
     }
-}{
+},{
     "success": true,
     "timestamp": 1556841599,
     "historical": true,
@@ -23811,7 +23811,7 @@
         "BGN": 1.95574,
         "ARS": 50.01927
     }
-}{
+},{
     "success": true,
     "timestamp": 1556927999,
     "historical": true,
@@ -23860,7 +23860,7 @@
         "BGN": 1.957422,
         "ARS": 49.830729
     }
-}{
+},{
     "success": true,
     "timestamp": 1557014399,
     "historical": true,
@@ -23909,7 +23909,7 @@
         "BGN": 1.957422,
         "ARS": 49.830729
     }
-}{
+},{
     "success": true,
     "timestamp": 1557100799,
     "historical": true,
@@ -23958,7 +23958,7 @@
         "BGN": 1.952856,
         "ARS": 49.828551
     }
-}{
+},{
     "success": true,
     "timestamp": 1557187199,
     "historical": true,
@@ -24007,7 +24007,7 @@
         "BGN": 1.955876,
         "ARS": 50.057988
     }
-}{
+},{
     "success": true,
     "timestamp": 1557273599,
     "historical": true,
@@ -24056,7 +24056,7 @@
         "BGN": 1.955913,
         "ARS": 50.652927
     }
-}{
+},{
     "success": true,
     "timestamp": 1557359999,
     "historical": true,
@@ -24105,7 +24105,7 @@
         "BGN": 1.956248,
         "ARS": 50.470052
     }
-}{
+},{
     "success": true,
     "timestamp": 1557446399,
     "historical": true,
@@ -24154,7 +24154,7 @@
         "BGN": 1.956185,
         "ARS": 50.741588
     }
-}{
+},{
     "success": true,
     "timestamp": 1557532799,
     "historical": true,
@@ -24203,7 +24203,7 @@
         "BGN": 1.955658,
         "ARS": 50.349752
     }
-}{
+},{
     "success": true,
     "timestamp": 1557619199,
     "historical": true,
@@ -24252,7 +24252,7 @@
         "BGN": 1.955658,
         "ARS": 50.349752
     }
-}{
+},{
     "success": true,
     "timestamp": 1557705599,
     "historical": true,
@@ -24301,7 +24301,7 @@
         "BGN": 1.955756,
         "ARS": 50.350017
     }
-}{
+},{
     "success": true,
     "timestamp": 1557791999,
     "historical": true,
@@ -24350,7 +24350,7 @@
         "BGN": 1.956739,
         "ARS": 50.71222
     }
-}{
+},{
     "success": true,
     "timestamp": 1557878399,
     "historical": true,
@@ -24399,7 +24399,7 @@
         "BGN": 1.955844,
         "ARS": 50.351221
     }
-}{
+},{
     "success": true,
     "timestamp": 1557964799,
     "historical": true,
@@ -24448,7 +24448,7 @@
         "BGN": 1.956384,
         "ARS": 50.403456
     }
-}{
+},{
     "success": true,
     "timestamp": 1558051199,
     "historical": true,
@@ -24497,7 +24497,7 @@
         "BGN": 1.95567,
         "ARS": 49.999528
     }
-}{
+},{
     "success": true,
     "timestamp": 1558137599,
     "historical": true,
@@ -24546,7 +24546,7 @@
         "BGN": 1.95788,
         "ARS": 50.204387
     }
-}{
+},{
     "success": true,
     "timestamp": 1558223999,
     "historical": true,
@@ -24595,7 +24595,7 @@
         "BGN": 1.95788,
         "ARS": 50.204387
     }
-}{
+},{
     "success": true,
     "timestamp": 1558310399,
     "historical": true,
@@ -24644,7 +24644,7 @@
         "BGN": 1.957437,
         "ARS": 50.204314
     }
-}{
+},{
     "success": true,
     "timestamp": 1558396799,
     "historical": true,
@@ -24693,7 +24693,7 @@
         "BGN": 1.955654,
         "ARS": 50.469473
     }
-}{
+},{
     "success": true,
     "timestamp": 1558483199,
     "historical": true,
@@ -24742,7 +24742,7 @@
         "BGN": 1.95645,
         "ARS": 50.010593
     }
-}{
+},{
     "success": true,
     "timestamp": 1558569599,
     "historical": true,
@@ -24791,7 +24791,7 @@
         "BGN": 1.955815,
         "ARS": 50.049386
     }
-}{
+},{
     "success": true,
     "timestamp": 1558655999,
     "historical": true,
@@ -24840,7 +24840,7 @@
         "BGN": 1.95655,
         "ARS": 50.415769
     }
-}{
+},{
     "success": true,
     "timestamp": 1558742399,
     "historical": true,
@@ -24889,7 +24889,7 @@
         "BGN": 1.956433,
         "ARS": 50.229756
     }
-}{
+},{
     "success": true,
     "timestamp": 1558828799,
     "historical": true,
@@ -24938,7 +24938,7 @@
         "BGN": 1.956097,
         "ARS": 50.418429
     }
-}{
+},{
     "success": true,
     "timestamp": 1558915199,
     "historical": true,
@@ -24987,7 +24987,7 @@
         "BGN": 1.956575,
         "ARS": 50.417019
     }
-}{
+},{
     "success": true,
     "timestamp": 1559001599,
     "historical": true,
@@ -25036,7 +25036,7 @@
         "BGN": 1.955828,
         "ARS": 50.314633
     }
-}{
+},{
     "success": true,
     "timestamp": 1559087999,
     "historical": true,
@@ -25085,7 +25085,7 @@
         "BGN": 1.956771,
         "ARS": 49.88791
     }
-}{
+},{
     "success": true,
     "timestamp": 1559174399,
     "historical": true,
@@ -25134,7 +25134,7 @@
         "BGN": 1.955972,
         "ARS": 49.490096
     }
-}{
+},{
     "success": true,
     "timestamp": 1559260799,
     "historical": true,
@@ -25183,7 +25183,7 @@
         "BGN": 1.955902,
         "ARS": 49.597072
     }
-}{
+},{
     "success": true,
     "timestamp": 1559347199,
     "historical": true,
@@ -25232,7 +25232,7 @@
         "BGN": 1.961078,
         "ARS": 50.050416
     }
-}{
+},{
     "success": true,
     "timestamp": 1559433599,
     "historical": true,
@@ -25281,7 +25281,7 @@
         "BGN": 1.961078,
         "ARS": 50.050416
     }
-}{
+},{
     "success": true,
     "timestamp": 1559519999,
     "historical": true,
@@ -25330,7 +25330,7 @@
         "BGN": 1.951368,
         "ARS": 49.66423
     }
-}{
+},{
     "success": true,
     "timestamp": 1559606399,
     "historical": true,
@@ -25379,7 +25379,7 @@
         "BGN": 1.955897,
         "ARS": 50.447368
     }
-}{
+},{
     "success": true,
     "timestamp": 1559692799,
     "historical": true,
@@ -25428,7 +25428,7 @@
         "BGN": 1.955711,
         "ARS": 50.28114
     }
-}{
+},{
     "success": true,
     "timestamp": 1559779199,
     "historical": true,
@@ -25477,7 +25477,7 @@
         "BGN": 1.955808,
         "ARS": 50.428972
     }
-}{
+},{
     "success": true,
     "timestamp": 1559865599,
     "historical": true,
@@ -25526,7 +25526,7 @@
         "BGN": 1.955734,
         "ARS": 50.614116
     }
-}{
+},{
     "success": true,
     "timestamp": 1559951999,
     "historical": true,
@@ -25575,7 +25575,7 @@
         "BGN": 1.958007,
         "ARS": 50.822592
     }
-}{
+},{
     "success": true,
     "timestamp": 1560038399,
     "historical": true,
@@ -25624,7 +25624,7 @@
         "BGN": 1.958007,
         "ARS": 50.822592
     }
-}{
+},{
     "success": true,
     "timestamp": 1560124799,
     "historical": true,
@@ -25673,7 +25673,7 @@
         "BGN": 1.954234,
         "ARS": 50.818713
     }
-}{
+},{
     "success": true,
     "timestamp": 1560211199,
     "historical": true,
@@ -25722,7 +25722,7 @@
         "BGN": 1.956159,
         "ARS": 50.782057
     }
-}{
+},{
     "success": true,
     "timestamp": 1560297599,
     "historical": true,
@@ -25771,7 +25771,7 @@
         "BGN": 1.955861,
         "ARS": 50.625378
     }
-}{
+},{
     "success": true,
     "timestamp": 1560383999,
     "historical": true,
@@ -25820,7 +25820,7 @@
         "BGN": 1.955837,
         "ARS": 49.327817
     }
-}{
+},{
     "success": true,
     "timestamp": 1560470399,
     "historical": true,
@@ -25869,7 +25869,7 @@
         "BGN": 1.956072,
         "ARS": 49.079308
     }
-}{
+},{
     "success": true,
     "timestamp": 1560556799,
     "historical": true,
@@ -25918,7 +25918,7 @@
         "BGN": 1.960605,
         "ARS": 49.308919
     }
-}{
+},{
     "success": true,
     "timestamp": 1560643199,
     "historical": true,
@@ -25967,7 +25967,7 @@
         "BGN": 1.955998,
         "ARS": 49.015017
     }
-}{
+},{
     "success": true,
     "timestamp": 1560729599,
     "historical": true,
@@ -26016,7 +26016,7 @@
         "BGN": 1.952374,
         "ARS": 49.011829
     }
-}{
+},{
     "success": true,
     "timestamp": 1560815999,
     "historical": true,
@@ -26065,7 +26065,7 @@
         "BGN": 1.956213,
         "ARS": 49.37569
     }
-}{
+},{
     "success": true,
     "timestamp": 1560902399,
     "historical": true,
@@ -26114,7 +26114,7 @@
         "BGN": 1.956165,
         "ARS": 48.649523
     }
-}{
+},{
     "success": true,
     "timestamp": 1560988799,
     "historical": true,
@@ -26163,7 +26163,7 @@
         "BGN": 1.955012,
         "ARS": 48.685194
     }
-}{
+},{
     "success": true,
     "timestamp": 1561075199,
     "historical": true,
@@ -26212,7 +26212,7 @@
         "BGN": 1.955874,
         "ARS": 48.948977
     }
-}{
+},{
     "success": true,
     "timestamp": 1561161599,
     "historical": true,
@@ -26261,7 +26261,7 @@
         "BGN": 1.960155,
         "ARS": 48.643121
     }
-}{
+},{
     "success": true,
     "timestamp": 1561247999,
     "historical": true,
@@ -26310,7 +26310,7 @@
         "BGN": 1.960155,
         "ARS": 48.643121
     }
-}{
+},{
     "success": true,
     "timestamp": 1561334399,
     "historical": true,
@@ -26359,7 +26359,7 @@
         "BGN": 1.958224,
         "ARS": 48.644239
     }
-}{
+},{
     "success": true,
     "timestamp": 1561420799,
     "historical": true,
@@ -26408,7 +26408,7 @@
         "BGN": 1.956111,
         "ARS": 48.354952
     }
-}{
+},{
     "success": true,
     "timestamp": 1561507199,
     "historical": true,
@@ -26457,7 +26457,7 @@
         "BGN": 1.956058,
         "ARS": 48.167979
     }
-}{
+},{
     "success": true,
     "timestamp": 1561593599,
     "historical": true,
@@ -26506,7 +26506,7 @@
         "BGN": 1.955939,
         "ARS": 48.546943
     }
-}{
+},{
     "success": true,
     "timestamp": 1561679999,
     "historical": true,
@@ -26555,7 +26555,7 @@
         "BGN": 1.956141,
         "ARS": 48.55884
     }
-}{
+},{
     "success": true,
     "timestamp": 1561766399,
     "historical": true,
@@ -26604,7 +26604,7 @@
         "BGN": 1.959675,
         "ARS": 48.299316
     }
-}{
+},{
     "success": true,
     "timestamp": 1561852799,
     "historical": true,
@@ -26653,7 +26653,7 @@
         "BGN": 1.959675,
         "ARS": 48.299316
     }
-}{
+},{
     "success": true,
     "timestamp": 1561939199,
     "historical": true,
@@ -26702,7 +26702,7 @@
         "BGN": 1.955004,
         "ARS": 48.306902
     }
-}{
+},{
     "success": true,
     "timestamp": 1562025599,
     "historical": true,
@@ -26751,7 +26751,7 @@
         "BGN": 1.955766,
         "ARS": 47.813105
     }
-}{
+},{
     "success": true,
     "timestamp": 1562111999,
     "historical": true,
@@ -26800,7 +26800,7 @@
         "BGN": 1.955636,
         "ARS": 47.60438
     }
-}{
+},{
     "success": true,
     "timestamp": 1562198399,
     "historical": true,
@@ -26849,7 +26849,7 @@
         "BGN": 1.955725,
         "ARS": 47.444992
     }
-}{
+},{
     "success": true,
     "timestamp": 1562284799,
     "historical": true,
@@ -26898,7 +26898,7 @@
         "BGN": 1.95576,
         "ARS": 47.109568
     }
-}{
+},{
     "success": true,
     "timestamp": 1562371199,
     "historical": true,
@@ -26947,7 +26947,7 @@
         "BGN": 1.956987,
         "ARS": 46.926514
     }
-}{
+},{
     "success": true,
     "timestamp": 1562457599,
     "historical": true,
@@ -26996,7 +26996,7 @@
         "BGN": 1.956987,
         "ARS": 46.926514
     }
-}{
+},{
     "success": true,
     "timestamp": 1562543999,
     "historical": true,
@@ -27045,7 +27045,7 @@
         "BGN": 1.956191,
         "ARS": 46.925398
     }
-}{
+},{
     "success": true,
     "timestamp": 1562630399,
     "historical": true,
@@ -27094,7 +27094,7 @@
         "BGN": 1.956062,
         "ARS": 46.887064
     }
-}{
+},{
     "success": true,
     "timestamp": 1562716799,
     "historical": true,
@@ -27143,7 +27143,7 @@
         "BGN": 1.955972,
         "ARS": 46.845733
     }
-}{
+},{
     "success": true,
     "timestamp": 1562803199,
     "historical": true,
@@ -27192,7 +27192,7 @@
         "BGN": 1.955979,
         "ARS": 47.110806
     }
-}{
+},{
     "success": true,
     "timestamp": 1562889599,
     "historical": true,
@@ -27241,7 +27241,7 @@
         "BGN": 1.954999,
         "ARS": 46.914176
     }
-}{
+},{
     "success": true,
     "timestamp": 1562975999,
     "historical": true,
@@ -27290,7 +27290,7 @@
         "BGN": 1.958778,
         "ARS": 46.877482
     }
-}{
+},{
     "success": true,
     "timestamp": 1563062399,
     "historical": true,
@@ -27339,7 +27339,7 @@
         "BGN": 1.958778,
         "ARS": 46.877482
     }
-}{
+},{
     "success": true,
     "timestamp": 1563148799,
     "historical": true,
@@ -27388,7 +27388,7 @@
         "BGN": 1.956007,
         "ARS": 46.876211
     }
-}{
+},{
     "success": true,
     "timestamp": 1563235199,
     "historical": true,
@@ -27437,7 +27437,7 @@
         "BGN": 1.95582,
         "ARS": 47.757251
     }
-}{
+},{
     "success": true,
     "timestamp": 1563321599,
     "historical": true,
@@ -27486,7 +27486,7 @@
         "BGN": 1.955915,
         "ARS": 47.85464
     }
-}{
+},{
     "success": true,
     "timestamp": 1563407999,
     "historical": true,
@@ -27535,7 +27535,7 @@
         "BGN": 1.9558,
         "ARS": 47.716484
     }
-}{
+},{
     "success": true,
     "timestamp": 1563494399,
     "historical": true,
@@ -27584,7 +27584,7 @@
         "BGN": 1.956392,
         "ARS": 47.708151
     }
-}{
+},{
     "success": true,
     "timestamp": 1563580799,
     "historical": true,
@@ -27633,7 +27633,7 @@
         "BGN": 1.958789,
         "ARS": 47.558166
     }
-}{
+},{
     "success": true,
     "timestamp": 1563667199,
     "historical": true,
@@ -27682,7 +27682,7 @@
         "BGN": 1.95592,
         "ARS": 47.612086
     }
-}{
+},{
     "success": true,
     "timestamp": 1563753599,
     "historical": true,
@@ -27731,7 +27731,7 @@
         "BGN": 1.953209,
         "ARS": 47.613937
     }
-}{
+},{
     "success": true,
     "timestamp": 1563839999,
     "historical": true,
@@ -27780,7 +27780,7 @@
         "BGN": 1.955744,
         "ARS": 47.575205
     }
-}{
+},{
     "success": true,
     "timestamp": 1563926399,
     "historical": true,
@@ -27829,7 +27829,7 @@
         "BGN": 1.956086,
         "ARS": 47.52079
     }
-}{
+},{
     "success": true,
     "timestamp": 1564012799,
     "historical": true,
@@ -27878,7 +27878,7 @@
         "BGN": 1.955882,
         "ARS": 47.718724
     }
-}{
+},{
     "success": true,
     "timestamp": 1564099199,
     "historical": true,
@@ -27927,7 +27927,7 @@
         "BGN": 1.955629,
         "ARS": 48.297076
     }
-}{
+},{
     "success": true,
     "timestamp": 1564185599,
     "historical": true,
@@ -27976,7 +27976,7 @@
         "BGN": 1.959627,
         "ARS": 48.152879
     }
-}{
+},{
     "success": true,
     "timestamp": 1564271999,
     "historical": true,
@@ -28025,7 +28025,7 @@
         "BGN": 1.959627,
         "ARS": 48.152879
     }
-}{
+},{
     "success": true,
     "timestamp": 1564358399,
     "historical": true,
@@ -28074,7 +28074,7 @@
         "BGN": 1.956486,
         "ARS": 48.152568
     }
-}{
+},{
     "success": true,
     "timestamp": 1564444799,
     "historical": true,
@@ -28123,7 +28123,7 @@
         "BGN": 1.955865,
         "ARS": 48.745957
     }
-}{
+},{
     "success": true,
     "timestamp": 1564531199,
     "historical": true,
@@ -28172,7 +28172,7 @@
         "BGN": 1.956137,
         "ARS": 48.944746
     }
-}{
+},{
     "success": true,
     "timestamp": 1564617599,
     "historical": true,
@@ -28221,7 +28221,7 @@
         "BGN": 1.956332,
         "ARS": 48.5155
     }
-}{
+},{
     "success": true,
     "timestamp": 1564703999,
     "historical": true,
@@ -28270,7 +28270,7 @@
         "BGN": 1.95579,
         "ARS": 49.076366
     }
-}{
+},{
     "success": true,
     "timestamp": 1564790399,
     "historical": true,
@@ -28319,7 +28319,7 @@
         "BGN": 1.960138,
         "ARS": 49.530913
     }
-}{
+},{
     "success": true,
     "timestamp": 1564876799,
     "historical": true,
@@ -28368,7 +28368,7 @@
         "BGN": 1.960138,
         "ARS": 49.530913
     }
-}{
+},{
     "success": true,
     "timestamp": 1564963199,
     "historical": true,
@@ -28417,7 +28417,7 @@
         "BGN": 1.95628,
         "ARS": 49.522382
     }
-}{
+},{
     "success": true,
     "timestamp": 1565049599,
     "historical": true,
@@ -28466,7 +28466,7 @@
         "BGN": 1.955903,
         "ARS": 51.049579
     }
-}{
+},{
     "success": true,
     "timestamp": 1565135999,
     "historical": true,
@@ -28515,7 +28515,7 @@
         "BGN": 1.95586,
         "ARS": 50.723859
     }
-}{
+},{
     "success": true,
     "timestamp": 1565222399,
     "historical": true,
@@ -28564,7 +28564,7 @@
         "BGN": 1.955965,
         "ARS": 50.990952
     }
-}{
+},{
     "success": true,
     "timestamp": 1565308799,
     "historical": true,
@@ -28613,7 +28613,7 @@
         "BGN": 1.955897,
         "ARS": 50.530572
     }
-}{
+},{
     "success": true,
     "timestamp": 1565395199,
     "historical": true,
@@ -28662,7 +28662,7 @@
         "BGN": 1.975108,
         "ARS": 50.679544
     }
-}{
+},{
     "success": true,
     "timestamp": 1565481599,
     "historical": true,
@@ -28711,7 +28711,7 @@
         "BGN": 1.975108,
         "ARS": 50.679544
     }
-}{
+},{
     "success": true,
     "timestamp": 1565567999,
     "historical": true,
@@ -28760,7 +28760,7 @@
         "BGN": 1.957028,
         "ARS": 50.679207
     }
-}{
+},{
     "success": true,
     "timestamp": 1565654399,
     "historical": true,
@@ -28809,7 +28809,7 @@
         "BGN": 1.95602,
         "ARS": 59.44223
     }
-}{
+},{
     "success": true,
     "timestamp": 1565740799,
     "historical": true,
@@ -28858,7 +28858,7 @@
         "BGN": 1.956199,
         "ARS": 62.113332
     }
-}{
+},{
     "success": true,
     "timestamp": 1565827199,
     "historical": true,
@@ -28907,7 +28907,7 @@
         "BGN": 1.95564,
         "ARS": 67.128365
     }
-}{
+},{
     "success": true,
     "timestamp": 1565913599,
     "historical": true,
@@ -28956,7 +28956,7 @@
         "BGN": 1.95756,
         "ARS": 63.665088
     }
-}{
+},{
     "success": true,
     "timestamp": 1565999999,
     "historical": true,
@@ -29005,7 +29005,7 @@
         "BGN": 1.956513,
         "ARS": 60.815461
     }
-}{
+},{
     "success": true,
     "timestamp": 1566086399,
     "historical": true,
@@ -29054,7 +29054,7 @@
         "BGN": 1.956513,
         "ARS": 60.815461
     }
-}{
+},{
     "success": true,
     "timestamp": 1566172799,
     "historical": true,
@@ -29103,7 +29103,7 @@
         "BGN": 1.955972,
         "ARS": 60.804639
     }
-}{
+},{
     "success": true,
     "timestamp": 1566259199,
     "historical": true,
@@ -29152,7 +29152,7 @@
         "BGN": 1.956222,
         "ARS": 60.774712
     }
-}{
+},{
     "success": true,
     "timestamp": 1566345599,
     "historical": true,
@@ -29201,7 +29201,7 @@
         "BGN": 1.955592,
         "ARS": 60.735986
     }
-}{
+},{
     "success": true,
     "timestamp": 1566431999,
     "historical": true,
@@ -29250,7 +29250,7 @@
         "BGN": 1.955668,
         "ARS": 60.996332
     }
-}{
+},{
     "success": true,
     "timestamp": 1566518399,
     "historical": true,
@@ -29299,7 +29299,7 @@
         "BGN": 1.955809,
         "ARS": 61.078431
     }
-}{
+},{
     "success": true,
     "timestamp": 1566604799,
     "historical": true,
@@ -29348,7 +29348,7 @@
         "BGN": 1.972375,
         "ARS": 61.47095
     }
-}{
+},{
     "success": true,
     "timestamp": 1566691199,
     "historical": true,
@@ -29397,7 +29397,7 @@
         "BGN": 1.972375,
         "ARS": 60.920686
     }
-}{
+},{
     "success": true,
     "timestamp": 1566777599,
     "historical": true,
@@ -29446,7 +29446,7 @@
         "BGN": 1.955208,
         "ARS": 60.920388
     }
-}{
+},{
     "success": true,
     "timestamp": 1566863999,
     "historical": true,
@@ -29495,7 +29495,7 @@
         "BGN": 1.955815,
         "ARS": 61.398245
     }
-}{
+},{
     "success": true,
     "timestamp": 1566950399,
     "historical": true,
@@ -29544,7 +29544,7 @@
         "BGN": 1.955767,
         "ARS": 62.41188
     }
-}{
+},{
     "success": true,
     "timestamp": 1567036799,
     "historical": true,
@@ -29593,7 +29593,7 @@
         "BGN": 1.956364,
         "ARS": 64.237636
     }
-}{
+},{
     "success": true,
     "timestamp": 1567123199,
     "historical": true,
@@ -29642,7 +29642,7 @@
         "BGN": 1.955659,
         "ARS": 64.011464
     }
-}{
+},{
     "success": true,
     "timestamp": 1567209599,
     "historical": true,
@@ -29691,7 +29691,7 @@
         "BGN": 1.959101,
         "ARS": 65.396836
     }
-}{
+},{
     "success": true,
     "timestamp": 1567295999,
     "historical": true,
@@ -29740,7 +29740,7 @@
         "BGN": 1.959101,
         "ARS": 65.396836
     }
-}{
+},{
     "success": true,
     "timestamp": 1567382399,
     "historical": true,
@@ -29789,7 +29789,7 @@
         "BGN": 1.955682,
         "ARS": 65.383555
     }
-}{
+},{
     "success": true,
     "timestamp": 1567468799,
     "historical": true,
@@ -29838,7 +29838,7 @@
         "BGN": 1.956081,
         "ARS": 63.866729
     }
-}{
+},{
     "success": true,
     "timestamp": 1567555199,
     "historical": true,
@@ -29887,7 +29887,7 @@
         "BGN": 1.955997,
         "ARS": 61.378318
     }
-}{
+},{
     "success": true,
     "timestamp": 1567641599,
     "historical": true,
@@ -29936,7 +29936,7 @@
         "BGN": 1.955925,
         "ARS": 61.718255
     }
-}{
+},{
     "success": true,
     "timestamp": 1567727999,
     "historical": true,
@@ -29985,7 +29985,7 @@
         "BGN": 1.956096,
         "ARS": 61.811386
     }
-}{
+},{
     "success": true,
     "timestamp": 1567814399,
     "historical": true,
@@ -30034,7 +30034,7 @@
         "BGN": 1.974952,
         "ARS": 61.558346
     }
-}{
+},{
     "success": true,
     "timestamp": 1567900799,
     "historical": true,
@@ -30083,7 +30083,7 @@
         "BGN": 1.955815,
         "ARS": 61.792129
     }
-}{
+},{
     "success": true,
     "timestamp": 1567987199,
     "historical": true,
@@ -30132,7 +30132,7 @@
         "BGN": 1.936094,
         "ARS": 61.796643
     }
-}{
+},{
     "success": true,
     "timestamp": 1568073599,
     "historical": true,
@@ -30181,7 +30181,7 @@
         "BGN": 1.955943,
         "ARS": 61.887608
     }
-}{
+},{
     "success": true,
     "timestamp": 1568159999,
     "historical": true,
@@ -30230,7 +30230,7 @@
         "BGN": 1.955959,
         "ARS": 61.843419
     }
-}{
+},{
     "success": true,
     "timestamp": 1568246399,
     "historical": true,
@@ -30279,7 +30279,7 @@
         "BGN": 1.956033,
         "ARS": 61.864922
     }
-}{
+},{
     "success": true,
     "timestamp": 1568332799,
     "historical": true,
@@ -30328,7 +30328,7 @@
         "BGN": 1.955438,
         "ARS": 62.040193
     }
-}{
+},{
     "success": true,
     "timestamp": 1568419199,
     "historical": true,
@@ -30377,7 +30377,7 @@
         "BGN": 1.969792,
         "ARS": 62.103683
     }
-}{
+},{
     "success": true,
     "timestamp": 1568505599,
     "historical": true,
@@ -30426,7 +30426,7 @@
         "BGN": 1.969792,
         "ARS": 62.103683
     }
-}{
+},{
     "success": true,
     "timestamp": 1568591999,
     "historical": true,
@@ -30475,7 +30475,7 @@
         "BGN": 1.956809,
         "ARS": 62.101198
     }
-}{
+},{
     "success": true,
     "timestamp": 1568678399,
     "historical": true,
@@ -30524,7 +30524,7 @@
         "BGN": 1.955826,
         "ARS": 61.913691
     }
-}{
+},{
     "success": true,
     "timestamp": 1568764799,
     "historical": true,
@@ -30573,7 +30573,7 @@
         "BGN": 1.956053,
         "ARS": 62.553322
     }
-}{
+},{
     "success": true,
     "timestamp": 1568851199,
     "historical": true,
@@ -30622,7 +30622,7 @@
         "BGN": 1.95588,
         "ARS": 62.24644
     }
-}{
+},{
     "success": true,
     "timestamp": 1568937599,
     "historical": true,
@@ -30671,7 +30671,7 @@
         "BGN": 1.955814,
         "ARS": 62.402448
     }
-}{
+},{
     "success": true,
     "timestamp": 1569023999,
     "historical": true,
@@ -30720,7 +30720,7 @@
         "BGN": 1.955273,
         "ARS": 62.447242
     }
-}{
+},{
     "success": true,
     "timestamp": 1569110399,
     "historical": true,
@@ -30769,7 +30769,7 @@
         "BGN": 1.955273,
         "ARS": 62.447242
     }
-}{
+},{
     "success": true,
     "timestamp": 1569196799,
     "historical": true,
@@ -30818,7 +30818,7 @@
         "BGN": 1.955924,
         "ARS": 62.44837
     }
-}{
+},{
     "success": true,
     "timestamp": 1569283199,
     "historical": true,
@@ -30867,7 +30867,7 @@
         "BGN": 1.955884,
         "ARS": 62.575313
     }
-}{
+},{
     "success": true,
     "timestamp": 1569369599,
     "historical": true,
@@ -30916,7 +30916,7 @@
         "BGN": 1.955511,
         "ARS": 62.636033
     }
-}{
+},{
     "success": true,
     "timestamp": 1569455999,
     "historical": true,
@@ -30965,7 +30965,7 @@
         "BGN": 1.95584,
         "ARS": 62.411604
     }
-}{
+},{
     "success": true,
     "timestamp": 1569542399,
     "historical": true,
@@ -31014,7 +31014,7 @@
         "BGN": 1.9556,
         "ARS": 62.443654
     }
-}{
+},{
     "success": true,
     "timestamp": 1569628799,
     "historical": true,
@@ -31063,7 +31063,7 @@
         "BGN": 1.955714,
         "ARS": 62.725498
     }
-}{
+},{
     "success": true,
     "timestamp": 1569715199,
     "historical": true,
@@ -31112,7 +31112,7 @@
         "BGN": 1.955765,
         "ARS": 62.538406
     }
-}{
+},{
     "success": true,
     "timestamp": 1569801599,
     "historical": true,
@@ -31161,7 +31161,7 @@
         "BGN": 1.956,
         "ARS": 62.537771
     }
-}{
+},{
     "success": true,
     "timestamp": 1569887999,
     "historical": true,
@@ -31210,7 +31210,7 @@
         "BGN": 1.955378,
         "ARS": 62.774171
     }
-}{
+},{
     "success": true,
     "timestamp": 1569974399,
     "historical": true,
@@ -31259,7 +31259,7 @@
         "BGN": 1.955912,
         "ARS": 62.779469
     }
-}{
+},{
     "success": true,
     "timestamp": 1570060799,
     "historical": true,
@@ -31308,7 +31308,7 @@
         "BGN": 1.956054,
         "ARS": 63.385081
     }
-}{
+},{
     "success": true,
     "timestamp": 1570147199,
     "historical": true,
@@ -31357,7 +31357,7 @@
         "BGN": 1.956054,
         "ARS": 63.280117
     }
-}{
+},{
     "success": true,
     "timestamp": 1570233599,
     "historical": true,
@@ -31406,7 +31406,7 @@
         "BGN": 1.956303,
         "ARS": 63.299891
     }
-}{
+},{
     "success": true,
     "timestamp": 1570319999,
     "historical": true,
@@ -31455,7 +31455,7 @@
         "BGN": 1.955695,
         "ARS": 63.37306
     }
-}{
+},{
     "success": true,
     "timestamp": 1570406399,
     "historical": true,
@@ -31504,7 +31504,7 @@
         "BGN": 1.956444,
         "ARS": 63.38245
     }
-}{
+},{
     "success": true,
     "timestamp": 1570492799,
     "historical": true,
@@ -31553,7 +31553,7 @@
         "BGN": 1.955817,
         "ARS": 63.453772
     }
-}{
+},{
     "success": true,
     "timestamp": 1570579199,
     "historical": true,
@@ -31602,7 +31602,7 @@
         "BGN": 1.956082,
         "ARS": 63.393019
     }
-}{
+},{
     "success": true,
     "timestamp": 1570665599,
     "historical": true,
@@ -31651,7 +31651,7 @@
         "BGN": 1.955302,
         "ARS": 63.458419
     }
-}{
+},{
     "success": true,
     "timestamp": 1570751999,
     "historical": true,
@@ -31700,7 +31700,7 @@
         "BGN": 1.95621,
         "ARS": 63.76772
     }
-}{
+},{
     "success": true,
     "timestamp": 1570838399,
     "historical": true,
@@ -31749,7 +31749,7 @@
         "BGN": 1.955842,
         "ARS": 64.088321
     }
-}{
+},{
     "success": true,
     "timestamp": 1570924799,
     "historical": true,
@@ -31798,7 +31798,7 @@
         "BGN": 1.955848,
         "ARS": 64.088488
     }
-}{
+},{
     "success": true,
     "timestamp": 1571011199,
     "historical": true,
@@ -31847,7 +31847,7 @@
         "BGN": 1.954648,
         "ARS": 63.921105
     }
-}{
+},{
     "success": true,
     "timestamp": 1571097599,
     "historical": true,
@@ -31896,7 +31896,7 @@
         "BGN": 1.955565,
         "ARS": 64.002838
     }
-}{
+},{
     "success": true,
     "timestamp": 1571183999,
     "historical": true,
@@ -31945,7 +31945,7 @@
         "BGN": 1.955952,
         "ARS": 64.302087
     }
-}{
+},{
     "success": true,
     "timestamp": 1571270399,
     "historical": true,
@@ -31994,7 +31994,7 @@
         "BGN": 1.955858,
         "ARS": 63.95496
     }
-}{
+},{
     "success": true,
     "timestamp": 1571356799,
     "historical": true,
@@ -32043,7 +32043,7 @@
         "BGN": 1.955764,
         "ARS": 64.781352
     }
-}{
+},{
     "success": true,
     "timestamp": 1571443199,
     "historical": true,
@@ -32092,7 +32092,7 @@
         "BGN": 1.956336,
         "ARS": 65.09419
     }
-}{
+},{
     "success": true,
     "timestamp": 1571529599,
     "historical": true,
@@ -32141,7 +32141,7 @@
         "BGN": 1.956336,
         "ARS": 65.09419
     }
-}{
+},{
     "success": true,
     "timestamp": 1571615999,
     "historical": true,
@@ -32190,7 +32190,7 @@
         "BGN": 1.954642,
         "ARS": 65.093434
     }
-}{
+},{
     "success": true,
     "timestamp": 1571702399,
     "historical": true,
@@ -32239,7 +32239,7 @@
         "BGN": 1.955986,
         "ARS": 65.127726
     }
-}{
+},{
     "success": true,
     "timestamp": 1571788799,
     "historical": true,
@@ -32288,7 +32288,7 @@
         "BGN": 1.955247,
         "ARS": 65.299206
     }
-}{
+},{
     "success": true,
     "timestamp": 1571875199,
     "historical": true,
@@ -32337,7 +32337,7 @@
         "BGN": 1.955615,
         "ARS": 65.593729
     }
-}{
+},{
     "success": true,
     "timestamp": 1571961599,
     "historical": true,
@@ -32386,7 +32386,7 @@
         "BGN": 1.955897,
         "ARS": 66.131333
     }
-}{
+},{
     "success": true,
     "timestamp": 1572047999,
     "historical": true,
@@ -32435,7 +32435,7 @@
         "BGN": 1.955935,
         "ARS": 66.396904
     }
-}{
+},{
     "success": true,
     "timestamp": 1572134399,
     "historical": true,
@@ -32484,7 +32484,7 @@
         "BGN": 1.955935,
         "ARS": 66.396904
     }
-}{
+},{
     "success": true,
     "timestamp": 1572220799,
     "historical": true,
@@ -32533,7 +32533,7 @@
         "BGN": 1.956522,
         "ARS": 66.397368
     }
-}{
+},{
     "success": true,
     "timestamp": 1572307199,
     "historical": true,
@@ -32582,7 +32582,7 @@
         "BGN": 1.955923,
         "ARS": 65.940272
     }
-}{
+},{
     "success": true,
     "timestamp": 1572393599,
     "historical": true,
@@ -32631,7 +32631,7 @@
         "BGN": 1.955781,
         "ARS": 66.011831
     }
-}{
+},{
     "success": true,
     "timestamp": 1572479999,
     "historical": true,
@@ -32680,7 +32680,7 @@
         "BGN": 1.955667,
         "ARS": 66.500513
     }
-}{
+},{
     "success": true,
     "timestamp": 1572566399,
     "historical": true,
@@ -32729,7 +32729,7 @@
         "BGN": 1.95611,
         "ARS": 66.458818
     }
-}{
+},{
     "success": true,
     "timestamp": 1572652799,
     "historical": true,
@@ -32778,7 +32778,7 @@
         "BGN": 1.959126,
         "ARS": 66.606202
     }
-}{
+},{
     "success": true,
     "timestamp": 1572739199,
     "historical": true,
@@ -32827,7 +32827,7 @@
         "BGN": 1.95475,
         "ARS": 66.606197
     }
-}{
+},{
     "success": true,
     "timestamp": 1572825599,
     "historical": true,
@@ -32876,7 +32876,7 @@
         "BGN": 1.954521,
         "ARS": 66.598404
     }
-}{
+},{
     "success": true,
     "timestamp": 1572911999,
     "historical": true,
@@ -32925,7 +32925,7 @@
         "BGN": 1.955988,
         "ARS": 66.375574
     }
-}{
+},{
     "success": true,
     "timestamp": 1572998399,
     "historical": true,
@@ -32974,7 +32974,7 @@
         "BGN": 1.955905,
         "ARS": 66.064116
     }
-}{
+},{
     "success": true,
     "timestamp": 1573084799,
     "historical": true,
@@ -33023,7 +33023,7 @@
         "BGN": 1.955967,
         "ARS": 66.034813
     }
-}{
+},{
     "success": true,
     "timestamp": 1573171199,
     "historical": true,
@@ -33072,7 +33072,7 @@
         "BGN": 1.955812,
         "ARS": 65.873466
     }
-}{
+},{
     "success": true,
     "timestamp": 1573257599,
     "historical": true,
@@ -33121,7 +33121,7 @@
         "BGN": 1.955838,
         "ARS": 65.568799
     }
-}{
+},{
     "success": true,
     "timestamp": 1573343999,
     "historical": true,
@@ -33170,7 +33170,7 @@
         "BGN": 1.955838,
         "ARS": 65.568799
     }
-}{
+},{
     "success": true,
     "timestamp": 1573430399,
     "historical": true,
@@ -33219,7 +33219,7 @@
         "BGN": 1.956393,
         "ARS": 65.565679
     }
-}{
+},{
     "success": true,
     "timestamp": 1573516799,
     "historical": true,
@@ -33268,7 +33268,7 @@
         "BGN": 1.956528,
         "ARS": 65.763363
     }
-}{
+},{
     "success": true,
     "timestamp": 1573603199,
     "historical": true,
@@ -33317,7 +33317,7 @@
         "BGN": 1.9559,
         "ARS": 65.65172
     }
-}{
+},{
     "success": true,
     "timestamp": 1573689599,
     "historical": true,
@@ -33366,7 +33366,7 @@
         "BGN": 1.956298,
         "ARS": 65.700417
     }
-}{
+},{
     "success": true,
     "timestamp": 1573775999,
     "historical": true,
@@ -33415,7 +33415,7 @@
         "BGN": 1.955504,
         "ARS": 65.68579
     }
-}{
+},{
     "success": true,
     "timestamp": 1573862399,
     "historical": true,
@@ -33464,7 +33464,7 @@
         "BGN": 1.955464,
         "ARS": 65.875651
     }
-}{
+},{
     "success": true,
     "timestamp": 1573948799,
     "historical": true,
@@ -33513,7 +33513,7 @@
         "BGN": 1.9558,
         "ARS": 65.756201
     }
-}{
+},{
     "success": true,
     "timestamp": 1574035199,
     "historical": true,
@@ -33562,7 +33562,7 @@
         "BGN": 1.956296,
         "ARS": 65.755904
     }
-}{
+},{
     "success": true,
     "timestamp": 1574121599,
     "historical": true,
@@ -33611,7 +33611,7 @@
         "BGN": 1.954182,
         "ARS": 65.809274
     }
-}{
+},{
     "success": true,
     "timestamp": 1574207999,
     "historical": true,
@@ -33660,7 +33660,7 @@
         "BGN": 1.95602,
         "ARS": 66.069175
     }
-}{
+},{
     "success": true,
     "timestamp": 1574294399,
     "historical": true,
@@ -33709,7 +33709,7 @@
         "BGN": 1.955908,
         "ARS": 66.100606
     }
-}{
+},{
     "success": true,
     "timestamp": 1574380799,
     "historical": true,
@@ -33758,7 +33758,7 @@
         "BGN": 1.955024,
         "ARS": 66.114048
     }
-}{
+},{
     "success": true,
     "timestamp": 1574467199,
     "historical": true,
@@ -33807,7 +33807,7 @@
         "BGN": 1.955438,
         "ARS": 65.88083
     }
-}{
+},{
     "success": true,
     "timestamp": 1574553599,
     "historical": true,
@@ -33856,7 +33856,7 @@
         "BGN": 1.955669,
         "ARS": 65.888599
     }
-}{
+},{
     "success": true,
     "timestamp": 1574639999,
     "historical": true,
@@ -33905,7 +33905,7 @@
         "BGN": 1.955818,
         "ARS": 65.888243
     }
-}{
+},{
     "success": true,
     "timestamp": 1574726399,
     "historical": true,
@@ -33954,7 +33954,7 @@
         "BGN": 1.955621,
         "ARS": 65.685234
     }
-}{
+},{
     "success": true,
     "timestamp": 1574812799,
     "historical": true,
@@ -34003,7 +34003,7 @@
         "BGN": 1.955542,
         "ARS": 65.944028
     }
-}{
+},{
     "success": true,
     "timestamp": 1574899199,
     "historical": true,
@@ -34052,7 +34052,7 @@
         "BGN": 1.955877,
         "ARS": 65.939884
     }
-}{
+},{
     "success": true,
     "timestamp": 1574985599,
     "historical": true,
@@ -34101,7 +34101,7 @@
         "BGN": 1.955933,
         "ARS": 65.822886
     }
-}{
+},{
     "success": true,
     "timestamp": 1575071999,
     "historical": true,
@@ -34150,7 +34150,7 @@
         "BGN": 1.95599,
         "ARS": 66.03286
     }
-}{
+},{
     "success": true,
     "timestamp": 1575158399,
     "historical": true,
@@ -34199,7 +34199,7 @@
         "BGN": 1.955976,
         "ARS": 65.730706
     }
-}{
+},{
     "success": true,
     "timestamp": 1575244799,
     "historical": true,
@@ -34248,7 +34248,7 @@
         "BGN": 1.956058,
         "ARS": 65.729005
     }
-}{
+},{
     "success": true,
     "timestamp": 1575331199,
     "historical": true,
@@ -34297,7 +34297,7 @@
         "BGN": 1.953931,
         "ARS": 66.332767
     }
-}{
+},{
     "success": true,
     "timestamp": 1575417599,
     "historical": true,
@@ -34346,7 +34346,7 @@
         "BGN": 1.954821,
         "ARS": 66.318112
     }
-}{
+},{
     "success": true,
     "timestamp": 1575503999,
     "historical": true,
@@ -34395,7 +34395,7 @@
         "BGN": 1.956645,
         "ARS": 66.295396
     }
-}{
+},{
     "success": true,
     "timestamp": 1575590399,
     "historical": true,
@@ -34444,7 +34444,7 @@
         "BGN": 1.955819,
         "ARS": 66.585536
     }
-}{
+},{
     "success": true,
     "timestamp": 1575676799,
     "historical": true,
@@ -34493,7 +34493,7 @@
         "BGN": 1.953272,
         "ARS": 66.24519
     }
-}{
+},{
     "success": true,
     "timestamp": 1575763199,
     "historical": true,
@@ -34542,7 +34542,7 @@
         "BGN": 1.953051,
         "ARS": 66.237703
     }
-}{
+},{
     "success": true,
     "timestamp": 1575849599,
     "historical": true,
@@ -34591,7 +34591,7 @@
         "BGN": 1.953,
         "ARS": 66.23387
     }
-}{
+},{
     "success": true,
     "timestamp": 1575935999,
     "historical": true,
@@ -34640,7 +34640,7 @@
         "BGN": 1.951446,
         "ARS": 66.290045
     }
-}{
+},{
     "success": true,
     "timestamp": 1576022399,
     "historical": true,
@@ -34689,7 +34689,7 @@
         "BGN": 1.955736,
         "ARS": 66.270075
     }
-}{
+},{
     "success": true,
     "timestamp": 1576108799,
     "historical": true,
@@ -34738,7 +34738,7 @@
         "BGN": 1.956001,
         "ARS": 66.516536
     }
-}{
+},{
     "success": true,
     "timestamp": 1576195199,
     "historical": true,
@@ -34787,7 +34787,7 @@
         "BGN": 1.958609,
         "ARS": 66.84078
     }
-}{
+},{
     "success": true,
     "timestamp": 1576281599,
     "historical": true,
@@ -34836,7 +34836,7 @@
         "BGN": 1.95629,
         "ARS": 66.464784
     }
-}{
+},{
     "success": true,
     "timestamp": 1576367999,
     "historical": true,
@@ -34885,7 +34885,7 @@
         "BGN": 1.956203,
         "ARS": 66.461798
     }
-}{
+},{
     "success": true,
     "timestamp": 1576454399,
     "historical": true,
@@ -34934,7 +34934,7 @@
         "BGN": 1.956923,
         "ARS": 66.460561
     }
-}{
+},{
     "success": true,
     "timestamp": 1576540799,
     "historical": true,
@@ -34983,7 +34983,7 @@
         "BGN": 1.954885,
         "ARS": 66.531112
     }
-}{
+},{
     "success": true,
     "timestamp": 1576627199,
     "historical": true,
@@ -35032,7 +35032,7 @@
         "BGN": 1.955771,
         "ARS": 66.610274
     }
-}{
+},{
     "success": true,
     "timestamp": 1576713599,
     "historical": true,
@@ -35081,7 +35081,7 @@
         "BGN": 1.955868,
         "ARS": 66.438268
     }
-}{
+},{
     "success": true,
     "timestamp": 1576799999,
     "historical": true,
@@ -35130,7 +35130,7 @@
         "BGN": 1.955728,
         "ARS": 66.455845
     }
-}{
+},{
     "success": true,
     "timestamp": 1576886399,
     "historical": true,
@@ -35179,7 +35179,7 @@
         "BGN": 1.955947,
         "ARS": 66.160623
     }
-}{
+},{
     "success": true,
     "timestamp": 1576972799,
     "historical": true,
@@ -35228,7 +35228,7 @@
         "BGN": 1.956289,
         "ARS": 66.172198
     }
-}{
+},{
     "success": true,
     "timestamp": 1577059199,
     "historical": true,
@@ -35277,7 +35277,7 @@
         "BGN": 1.956194,
         "ARS": 66.171765
     }
-}{
+},{
     "success": true,
     "timestamp": 1577145599,
     "historical": true,
@@ -35326,7 +35326,7 @@
         "BGN": 1.95764,
         "ARS": 66.468599
     }
-}{
+},{
     "success": true,
     "timestamp": 1577231999,
     "historical": true,
@@ -35375,7 +35375,7 @@
         "BGN": 1.95632,
         "ARS": 66.179648
     }
-}{
+},{
     "success": true,
     "timestamp": 1577318399,
     "historical": true,
@@ -35424,7 +35424,7 @@
         "BGN": 1.958382,
         "ARS": 66.367944
     }
-}{
+},{
     "success": true,
     "timestamp": 1577404799,
     "historical": true,
@@ -35473,7 +35473,7 @@
         "BGN": 1.958741,
         "ARS": 66.364907
     }
-}{
+},{
     "success": true,
     "timestamp": 1577491199,
     "historical": true,
@@ -35522,7 +35522,7 @@
         "BGN": 1.95579,
         "ARS": 66.842976
     }
-}{
+},{
     "success": true,
     "timestamp": 1577577599,
     "historical": true,
@@ -35571,7 +35571,7 @@
         "BGN": 1.956136,
         "ARS": 66.854801
     }
-}{
+},{
     "success": true,
     "timestamp": 1577663999,
     "historical": true,
@@ -35620,7 +35620,7 @@
         "BGN": 1.957375,
         "ARS": 66.852118
     }
-}{
+},{
     "success": true,
     "timestamp": 1577750399,
     "historical": true,
@@ -35669,7 +35669,7 @@
         "BGN": 1.954307,
         "ARS": 67.089456
     }
-}{
+},{
     "success": true,
     "timestamp": 1577836799,
     "historical": true,
@@ -35718,7 +35718,7 @@
         "BGN": 1.956237,
         "ARS": 67.204926
     }
-}{
+},{
     "success": true,
     "timestamp": 1577923199,
     "historical": true,
@@ -35767,7 +35767,7 @@
         "BGN": 1.956373,
         "ARS": 67.231179
     }
-}{
+},{
     "success": true,
     "timestamp": 1578009599,
     "historical": true,
@@ -35816,7 +35816,7 @@
         "BGN": 1.955009,
         "ARS": 66.806191
     }
-}{
+},{
     "success": true,
     "timestamp": 1578095999,
     "historical": true,
@@ -35865,7 +35865,7 @@
         "BGN": 1.953935,
         "ARS": 66.654894
     }
-}{
+},{
     "success": true,
     "timestamp": 1578182399,
     "historical": true,
@@ -35914,7 +35914,7 @@
         "BGN": 1.953847,
         "ARS": 66.651904
     }
-}{
+},{
     "success": true,
     "timestamp": 1578268799,
     "historical": true,
@@ -35963,7 +35963,7 @@
         "BGN": 1.954213,
         "ARS": 66.652119
     }
-}{
+},{
     "success": true,
     "timestamp": 1578355199,
     "historical": true,
@@ -36012,7 +36012,7 @@
         "BGN": 1.956098,
         "ARS": 66.878271
     }
-}{
+},{
     "success": true,
     "timestamp": 1578441599,
     "historical": true,
@@ -36061,7 +36061,7 @@
         "BGN": 1.958321,
         "ARS": 66.649894
     }
-}{
+},{
     "success": true,
     "timestamp": 1578527999,
     "historical": true,
@@ -36110,7 +36110,7 @@
         "BGN": 1.956371,
         "ARS": 66.475196
     }
-}{
+},{
     "success": true,
     "timestamp": 1578614399,
     "historical": true,
@@ -36159,7 +36159,7 @@
         "BGN": 1.95626,
         "ARS": 66.342323
     }
-}{
+},{
     "success": true,
     "timestamp": 1578700799,
     "historical": true,
@@ -36208,7 +36208,7 @@
         "BGN": 1.957509,
         "ARS": 66.433162
     }
-}{
+},{
     "success": true,
     "timestamp": 1578787199,
     "historical": true,
@@ -36257,7 +36257,7 @@
         "BGN": 1.9579,
         "ARS": 66.270498
     }
-}{
+},{
     "success": true,
     "timestamp": 1578873599,
     "historical": true,
@@ -36306,7 +36306,7 @@
         "BGN": 1.957013,
         "ARS": 66.269007
     }
-}{
+},{
     "success": true,
     "timestamp": 1578959999,
     "historical": true,
@@ -36355,7 +36355,7 @@
         "BGN": 1.955625,
         "ARS": 66.746592
     }
-}{
+},{
     "success": true,
     "timestamp": 1579046399,
     "historical": true,
@@ -36404,7 +36404,7 @@
         "BGN": 1.956007,
         "ARS": 66.753146
     }
-}{
+},{
     "success": true,
     "timestamp": 1579132799,
     "historical": true,
@@ -36453,7 +36453,7 @@
         "BGN": 1.958204,
         "ARS": 66.775045
     }
-}{
+},{
     "success": true,
     "timestamp": 1579219199,
     "historical": true,
@@ -36502,7 +36502,7 @@
         "BGN": 1.955783,
         "ARS": 66.702626
     }
-}{
+},{
     "success": true,
     "timestamp": 1579305599,
     "historical": true,
@@ -36551,7 +36551,7 @@
         "BGN": 1.955511,
         "ARS": 66.544298
     }
-}{
+},{
     "success": true,
     "timestamp": 1579391999,
     "historical": true,
@@ -36600,7 +36600,7 @@
         "BGN": 1.955547,
         "ARS": 66.545501
     }
-}{
+},{
     "success": true,
     "timestamp": 1579478399,
     "historical": true,
@@ -36649,7 +36649,7 @@
         "BGN": 1.956151,
         "ARS": 66.54536
     }
-}{
+},{
     "success": true,
     "timestamp": 1579564799,
     "historical": true,
@@ -36698,7 +36698,7 @@
         "BGN": 1.955642,
         "ARS": 66.57357
     }
-}{
+},{
     "success": true,
     "timestamp": 1579651199,
     "historical": true,
@@ -36747,7 +36747,7 @@
         "BGN": 1.954633,
         "ARS": 66.618397
     }
-}{
+},{
     "success": true,
     "timestamp": 1579737599,
     "historical": true,
@@ -36796,7 +36796,7 @@
         "BGN": 1.956454,
         "ARS": 66.564735
     }
-}{
+},{
     "success": true,
     "timestamp": 1579823999,
     "historical": true,
@@ -36845,7 +36845,7 @@
         "BGN": 1.955717,
         "ARS": 66.32678
     }
-}{
+},{
     "success": true,
     "timestamp": 1579910399,
     "historical": true,
@@ -36894,7 +36894,7 @@
         "BGN": 1.955582,
         "ARS": 66.162497
     }
-}{
+},{
     "success": true,
     "timestamp": 1579996799,
     "historical": true,
@@ -36943,7 +36943,7 @@
         "BGN": 1.955653,
         "ARS": 66.164897
     }
-}{
+},{
     "success": true,
     "timestamp": 1580083199,
     "historical": true,
@@ -36992,7 +36992,7 @@
         "BGN": 1.955569,
         "ARS": 66.164496
     }
-}{
+},{
     "success": true,
     "timestamp": 1580169599,
     "historical": true,
@@ -37041,7 +37041,7 @@
         "BGN": 1.955526,
         "ARS": 66.209509
     }
-}{
+},{
     "success": true,
     "timestamp": 1580255999,
     "historical": true,
@@ -37090,7 +37090,7 @@
         "BGN": 1.955998,
         "ARS": 66.240238
     }
-}{
+},{
     "success": true,
     "timestamp": 1580342399,
     "historical": true,
@@ -37139,7 +37139,7 @@
         "BGN": 1.956212,
         "ARS": 66.267591
     }
-}{
+},{
     "success": true,
     "timestamp": 1580428799,
     "historical": true,
@@ -37188,7 +37188,7 @@
         "BGN": 1.95496,
         "ARS": 66.360828
     }
-}{
+},{
     "success": true,
     "timestamp": 1580515199,
     "historical": true,
@@ -37237,7 +37237,7 @@
         "BGN": 1.956738,
         "ARS": 66.868327
     }
-}{
+},{
     "success": true,
     "timestamp": 1580601599,
     "historical": true,
@@ -37286,7 +37286,7 @@
         "BGN": 1.956596,
         "ARS": 66.863497
     }
-}{
+},{
     "success": true,
     "timestamp": 1580687999,
     "historical": true,
@@ -37335,7 +37335,7 @@
         "BGN": 1.955737,
         "ARS": 66.864871
     }
-}{
+},{
     "success": true,
     "timestamp": 1580774399,
     "historical": true,
@@ -37384,7 +37384,7 @@
         "BGN": 1.958471,
         "ARS": 66.834783
     }
-}{
+},{
     "success": true,
     "timestamp": 1580860799,
     "historical": true,
@@ -37433,7 +37433,7 @@
         "BGN": 1.955931,
         "ARS": 66.838545
     }
-}{
+},{
     "success": true,
     "timestamp": 1580947199,
     "historical": true,
@@ -37482,7 +37482,7 @@
         "BGN": 1.955681,
         "ARS": 66.591149
     }
-}{
+},{
     "success": true,
     "timestamp": 1581033599,
     "historical": true,
@@ -37531,7 +37531,7 @@
         "BGN": 1.955849,
         "ARS": 66.543279
     }
-}{
+},{
     "success": true,
     "timestamp": 1581119999,
     "historical": true,
@@ -37580,7 +37580,7 @@
         "BGN": 1.954113,
         "ARS": 66.431342
     }
-}{
+},{
     "success": true,
     "timestamp": 1581206399,
     "historical": true,
@@ -37629,7 +37629,7 @@
         "BGN": 1.954256,
         "ARS": 66.4362
     }
-}{
+},{
     "success": true,
     "timestamp": 1581292799,
     "historical": true,
@@ -37678,7 +37678,7 @@
         "BGN": 1.954717,
         "ARS": 66.432469
     }
-}{
+},{
     "success": true,
     "timestamp": 1581379199,
     "historical": true,
@@ -37727,7 +37727,7 @@
         "BGN": 1.955907,
         "ARS": 66.44598
     }
-}{
+},{
     "success": true,
     "timestamp": 1581465599,
     "historical": true,
@@ -37776,7 +37776,7 @@
         "BGN": 1.954416,
         "ARS": 66.677508
     }
-}{
+},{
     "success": true,
     "timestamp": 1581551999,
     "historical": true,
@@ -37825,7 +37825,7 @@
         "BGN": 1.956384,
         "ARS": 66.486717
     }
-}{
+},{
     "success": true,
     "timestamp": 1581638399,
     "historical": true,
@@ -37874,7 +37874,7 @@
         "BGN": 1.956259,
         "ARS": 66.480661
     }
-}{
+},{
     "success": true,
     "timestamp": 1581724799,
     "historical": true,
@@ -37923,7 +37923,7 @@
         "BGN": 1.952784,
         "ARS": 66.476005
     }
-}{
+},{
     "success": true,
     "timestamp": 1581811199,
     "historical": true,
@@ -37972,7 +37972,7 @@
         "BGN": 1.952784,
         "ARS": 66.476005
     }
-}{
+},{
     "success": true,
     "timestamp": 1581897599,
     "historical": true,
@@ -38021,7 +38021,7 @@
         "BGN": 1.954687,
         "ARS": 66.475403
     }
-}{
+},{
     "success": true,
     "timestamp": 1581983999,
     "historical": true,
@@ -38070,7 +38070,7 @@
         "BGN": 1.956217,
         "ARS": 66.704943
     }
-}{
+},{
     "success": true,
     "timestamp": 1582070399,
     "historical": true,
@@ -38119,7 +38119,7 @@
         "BGN": 1.954386,
         "ARS": 66.474693
     }
-}{
+},{
     "success": true,
     "timestamp": 1582156799,
     "historical": true,
@@ -38168,7 +38168,7 @@
         "BGN": 1.95641,
         "ARS": 66.650252
     }
-}{
+},{
     "success": true,
     "timestamp": 1582243199,
     "historical": true,
@@ -38217,7 +38217,7 @@
         "BGN": 1.955054,
         "ARS": 66.621897
     }
-}{
+},{
     "success": true,
     "timestamp": 1582329599,
     "historical": true,
@@ -38266,7 +38266,7 @@
         "BGN": 1.95536,
         "ARS": 66.989003
     }
-}{
+},{
     "success": true,
     "timestamp": 1582415999,
     "historical": true,
@@ -38315,7 +38315,7 @@
         "BGN": 1.95536,
         "ARS": 66.989003
     }
-}{
+},{
     "success": true,
     "timestamp": 1582502399,
     "historical": true,
@@ -38364,7 +38364,7 @@
         "BGN": 1.953834,
         "ARS": 66.995083
     }
-}{
+},{
     "success": true,
     "timestamp": 1582588799,
     "historical": true,
@@ -38413,7 +38413,7 @@
         "BGN": 1.954883,
         "ARS": 66.986302
     }
-}{
+},{
     "success": true,
     "timestamp": 1582675199,
     "historical": true,
@@ -38462,7 +38462,7 @@
         "BGN": 1.955868,
         "ARS": 67.21505
     }
-}{
+},{
     "success": true,
     "timestamp": 1582761599,
     "historical": true,
@@ -38511,7 +38511,7 @@
         "BGN": 1.954729,
         "ARS": 67.506568
     }
-}{
+},{
     "success": true,
     "timestamp": 1582847999,
     "historical": true,
@@ -38560,7 +38560,7 @@
         "BGN": 1.953415,
         "ARS": 68.262288
     }
-}{
+},{
     "success": true,
     "timestamp": 1582934399,
     "historical": true,
@@ -38609,7 +38609,7 @@
         "BGN": 1.954456,
         "ARS": 68.505067
     }
-}{
+},{
     "success": true,
     "timestamp": 1583020799,
     "historical": true,
@@ -38658,7 +38658,7 @@
         "BGN": 1.954529,
         "ARS": 68.507605
     }
-}{
+},{
     "success": true,
     "timestamp": 1583107199,
     "historical": true,
@@ -38707,7 +38707,7 @@
         "BGN": 1.95862,
         "ARS": 68.511219
     }
-}{
+},{
     "success": true,
     "timestamp": 1583193599,
     "historical": true,
@@ -38756,7 +38756,7 @@
         "BGN": 1.955041,
         "ARS": 69.294223
     }
-}{
+},{
     "success": true,
     "timestamp": 1583279999,
     "historical": true,
@@ -38805,7 +38805,7 @@
         "BGN": 1.956684,
         "ARS": 69.549916
     }
-}{
+},{
     "success": true,
     "timestamp": 1583366399,
     "historical": true,
@@ -38854,7 +38854,7 @@
         "BGN": 1.958346,
         "ARS": 69.459815
     }
-}{
+},{
     "success": true,
     "timestamp": 1583452799,
     "historical": true,
@@ -38903,7 +38903,7 @@
         "BGN": 1.955913,
         "ARS": 69.960724
     }
-}{
+},{
     "success": true,
     "timestamp": 1583539199,
     "historical": true,
@@ -38952,7 +38952,7 @@
         "BGN": 1.951943,
         "ARS": 70.463601
     }
-}{
+},{
     "success": true,
     "timestamp": 1583625599,
     "historical": true,
@@ -39001,7 +39001,7 @@
         "BGN": 1.951995,
         "ARS": 70.463605
     }
-}{
+},{
     "success": true,
     "timestamp": 1583711999,
     "historical": true,
@@ -39050,7 +39050,7 @@
         "BGN": 1.969117,
         "ARS": 70.451225
     }
-}{
+},{
     "success": true,
     "timestamp": 1583798399,
     "historical": true,
@@ -39099,7 +39099,7 @@
         "BGN": 1.95613,
         "ARS": 71.167046
     }
-}{
+},{
     "success": true,
     "timestamp": 1583884799,
     "historical": true,
@@ -39148,7 +39148,7 @@
         "BGN": 1.958681,
         "ARS": 70.780441
     }
-}{
+},{
     "success": true,
     "timestamp": 1583971199,
     "historical": true,
@@ -39197,7 +39197,7 @@
         "BGN": 1.956552,
         "ARS": 70.46653
     }
-}{
+},{
     "success": true,
     "timestamp": 1584057599,
     "historical": true,
@@ -39246,7 +39246,7 @@
         "BGN": 1.955692,
         "ARS": 70.128843
     }
-}{
+},{
     "success": true,
     "timestamp": 1584143999,
     "historical": true,
@@ -39295,7 +39295,7 @@
         "BGN": 1.969499,
         "ARS": 69.841096
     }
-}{
+},{
     "success": true,
     "timestamp": 1584230399,
     "historical": true,
@@ -39344,7 +39344,7 @@
         "BGN": 1.97003,
         "ARS": 69.859901
     }
-}{
+},{
     "success": true,
     "timestamp": 1584316799,
     "historical": true,
@@ -39393,7 +39393,7 @@
         "BGN": 1.971609,
         "ARS": 69.852271
     }
-}{
+},{
     "success": true,
     "timestamp": 1584403199,
     "historical": true,
@@ -39442,7 +39442,7 @@
         "BGN": 1.953586,
         "ARS": 70.252754
     }
-}{
+},{
     "success": true,
     "timestamp": 1584489599,
     "historical": true,
@@ -39491,7 +39491,7 @@
         "BGN": 1.955069,
         "ARS": 69.49354
     }
-}{
+},{
     "success": true,
     "timestamp": 1584575999,
     "historical": true,
@@ -39540,7 +39540,7 @@
         "BGN": 1.954261,
         "ARS": 69.333293
     }
-}{
+},{
     "success": true,
     "timestamp": 1584662399,
     "historical": true,
@@ -39589,7 +39589,7 @@
         "BGN": 1.953128,
         "ARS": 67.649173
     }
-}{
+},{
     "success": true,
     "timestamp": 1584748799,
     "historical": true,
@@ -39638,7 +39638,7 @@
         "BGN": 1.969416,
         "ARS": 68.195659
     }
-}{
+},{
     "success": true,
     "timestamp": 1584835199,
     "historical": true,
@@ -39687,7 +39687,7 @@
         "BGN": 1.969599,
         "ARS": 68.202001
     }
-}{
+},{
     "success": true,
     "timestamp": 1584921599,
     "historical": true,
@@ -39736,7 +39736,7 @@
         "BGN": 1.956765,
         "ARS": 68.202085
     }
-}{
+},{
     "success": true,
     "timestamp": 1585007999,
     "historical": true,
@@ -39785,7 +39785,7 @@
         "BGN": 1.958908,
         "ARS": 68.537539
     }
-}{
+},{
     "success": true,
     "timestamp": 1585094399,
     "historical": true,
@@ -39834,7 +39834,7 @@
         "BGN": 1.95669,
         "ARS": 68.79631
     }
-}{
+},{
     "success": true,
     "timestamp": 1585180799,
     "historical": true,
@@ -39883,7 +39883,7 @@
         "BGN": 1.956214,
         "ARS": 69.652858
     }
-}{
+},{
     "success": true,
     "timestamp": 1585267199,
     "historical": true,
@@ -39932,7 +39932,7 @@
         "BGN": 1.956739,
         "ARS": 70.848316
     }
-}{
+},{
     "success": true,
     "timestamp": 1585353599,
     "historical": true,
@@ -39981,7 +39981,7 @@
         "BGN": 1.96433,
         "ARS": 71.660599
     }
-}{
+},{
     "success": true,
     "timestamp": 1585439999,
     "historical": true,
@@ -40030,7 +40030,7 @@
         "BGN": 1.964612,
         "ARS": 71.6709
     }
-}{
+},{
     "success": true,
     "timestamp": 1585526399,
     "historical": true,
@@ -40079,7 +40079,7 @@
         "BGN": 1.958023,
         "ARS": 71.666952
     }
-}{
+},{
     "success": true,
     "timestamp": 1585612799,
     "historical": true,
@@ -40128,7 +40128,7 @@
         "BGN": 1.954175,
         "ARS": 71.009417
     }
-}{
+},{
     "success": true,
     "timestamp": 1585699199,
     "historical": true,
@@ -40177,7 +40177,7 @@
         "BGN": 1.957188,
         "ARS": 70.916443
     }
-}{
+},{
     "success": true,
     "timestamp": 1585785599,
     "historical": true,
@@ -40226,7 +40226,7 @@
         "BGN": 1.955538,
         "ARS": 70.573955
     }
-}{
+},{
     "success": true,
     "timestamp": 1585871999,
     "historical": true,
@@ -40275,7 +40275,7 @@
         "BGN": 1.955107,
         "ARS": 70.063182
     }
-}{
+},{
     "success": true,
     "timestamp": 1585958399,
     "historical": true,
@@ -40324,7 +40324,7 @@
         "BGN": 1.953867,
         "ARS": 70.156868
     }
-}{
+},{
     "success": true,
     "timestamp": 1586044799,
     "historical": true,
@@ -40373,7 +40373,7 @@
         "BGN": 1.953987,
         "ARS": 70.161189
     }
-}{
+},{
     "success": true,
     "timestamp": 1586131199,
     "historical": true,
@@ -40422,7 +40422,7 @@
         "BGN": 1.954245,
         "ARS": 70.16719
     }
-}{
+},{
     "success": true,
     "timestamp": 1586217599,
     "historical": true,
@@ -40471,7 +40471,7 @@
         "BGN": 1.958282,
         "ARS": 70.127694
     }
-}{
+},{
     "success": true,
     "timestamp": 1586303999,
     "historical": true,
@@ -40520,7 +40520,7 @@
         "BGN": 1.956361,
         "ARS": 70.804001
     }
-}{
+},{
     "success": true,
     "timestamp": 1586390399,
     "historical": true,
@@ -40569,7 +40569,7 @@
         "BGN": 1.957402,
         "ARS": 70.679988
     }
-}{
+},{
     "success": true,
     "timestamp": 1586417587,
     "historical": true,
@@ -40618,4 +40618,4 @@
         "BGN": 1.957306,
         "ARS": 70.717928
     }
-}
+}]}
