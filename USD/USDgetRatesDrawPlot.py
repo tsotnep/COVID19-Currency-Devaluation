@@ -10,13 +10,14 @@ import csv
 from itertools import cycle
 
 #changables>>
-currencies_list=["GEL"] #just add any if available : https://currencylayer.com/currencies
+currencies_list=["GEL", "PLN","RUB","TRY","GBP", "EUR"] #just add any if available : https://currencylayer.com/currencies
 start_date = date(2020, 1, 8)
 end_date = date(2020, 4, 6)
 reference_date = date(2020, 1, 8) #all list of currencies will be divided by that day's currency
-api_key = '99a188e62fac7513c701de364f751305' #don't be irresponsible lazy ass and get/use your API key here: https://fixer.io/quickstart
+api_key = '48abd3ad5047efb33f6311b61200d318' #don't be irresponsible lazy ass and get/use your API key here: https://fixer.io/quickstart
 #<<changables
-
+#other API: 86350148eb236db8a7f2de36d12d09e7
+#other API: 99a188e62fac7513c701de364f751305
 
 #assemble request link
 s_link='http://api.currencylayer.com/historical' 
@@ -52,8 +53,8 @@ with open(csvRawFileName, "w", newline="") as f:
     writer.writerows(d)
 
 #normalize - divide all currencies by the reference currency
-#for i in range(len(currencies_list)):
-#    d[i][:] = [j / d[i][(reference_date-start_date).days] for j in d[i]] #current/day_before_first_corona_case
+for i in range(len(currencies_list)):
+    d[i][:] = [j / d[i][(reference_date-start_date).days] for j in d[i]] #current/day_before_first_corona_case
     #d[i][:] = [j / min(d[i]) for j in d[i]] #current/minimum
 
 #savve normalized data

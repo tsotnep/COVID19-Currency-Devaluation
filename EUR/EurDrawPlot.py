@@ -12,13 +12,13 @@ from itertools import cycle
 import pandas as pd
 
 #changables>>
-currencies_list=["GEL"] #just select any from EurGetRates.py
-start_date =     datetime.strptime("2018-01-02","%Y-%m-%d").date()
+currencies_list=["GEL", 'PLN', 'GBP', "RUB","TYR", "USD"] #just select any from EurGetRates.py
+start_date =     datetime.strptime("2019-12-25","%Y-%m-%d").date()
 end_date =       datetime.strptime("2020-04-09","%Y-%m-%d").date()
-reference_date = datetime.strptime("2020-01-11","%Y-%m-%d").date()
+reference_date = datetime.strptime("2020-01-08","%Y-%m-%d").date()
 dirName = 'dataEur' #where previously parsed data json is stored
 fileName = '/data_raw.json' #where previously parsed data json is stored
-drawPercentages = False
+drawPercentages = True
 #<<changables
 
 
