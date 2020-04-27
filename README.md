@@ -16,4 +16,6 @@ DrawPlot.py plots stuff from json database
 
 # USD base version - thats a little bit obsolete, just let that be there
 
+gets data from : http://api.currencylayer.com/
+
 ![USD prices](https://raw.githubusercontent.com/tsotnep/COVID19-Currency-Devaluation/master/USD/From_2020-01-08%20to_2020-04-06.png)
